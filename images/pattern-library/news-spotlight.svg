@@ -12,36 +12,42 @@
                 <path d="M1059.58691,0.89022 L0.41309431,647.18994" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
                 <path d="M1059.58691,0.89022 L0.41309431,647.18994" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(530.000000, 324.040080) scale(-1, 1) translate(-530.000000, -324.040080) "></path>
             </g>
-            <g id="Group" transform="translate(57.000000, 212.000000)">
+            <g id="Group" transform="translate(25.000000, 212.000000)">
                 <text id="OCT-10,-2017" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16.8000007" font-weight="bold" line-spacing="20.4000008" fill="#FFFFFF">
-                    <tspan x="70" y="16">OCT 10, 2017</tspan>
+                    <tspan x="102" y="16">OCT 10, 2017</tspan>
                 </text>
                 <text id="Cellular-Design" font-family="HelveticaNeue, Helvetica Neue" font-size="19.2000008" font-weight="normal" line-spacing="40.8000016" fill="#FFFFFF">
-                    <tspan x="70" y="332">Cellular Design</tspan>
+                    <tspan x="102" y="332">Cellular Design</tspan>
                 </text>
                 <text id="Cursus-porttitor-vol" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24.000001" font-weight="bold" line-spacing="28.8000011" fill="#FFFFFF">
-                    <tspan x="70" y="104">Cursus porttitor volutpat </tspan>
-                    <tspan x="70" y="132.800001">aenean vel tristique </tspan>
-                    <tspan x="70" y="161.600002">venenatis ut vitae leo </tspan>
-                    <tspan x="70" y="190.400003">sapien enim tellus quam </tspan>
-                    <tspan x="70" y="219.200005">interdum aliquam</tspan>
+                    <tspan x="102" y="104">Cursus porttitor volutpat </tspan>
+                    <tspan x="102" y="132.800001">aenean vel tristique </tspan>
+                    <tspan x="102" y="161.600002">venenatis ut vitae leo </tspan>
+                    <tspan x="102" y="190.400003">sapien enim tellus quam </tspan>
+                    <tspan x="102" y="219.200005">interdum aliquam</tspan>
                 </text>
-                <g id="Count" transform="translate(0.000000, 81.000000)">
-                    <g id="Group-34">
-                        <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
-                        <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
-                            <tspan x="12" y="48">CHAR</tspan>
-                        </text>
-                        <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
-                            <tspan x="17" y="34">120</tspan>
-                        </text>
-                        <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
-                            <tspan x="18.1572727" y="15">Title</tspan>
+                <g id="count-with-letter" transform="translate(0.000000, 81.000000)">
+                    <g id="Group-3">
+                        <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                        <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                            <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                            <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                                <tspan x="12.925" y="48">CHAR</tspan>
+                            </text>
+                            <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                                <tspan x="17.5" y="34">120</tspan>
+                            </text>
+                            <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                                <tspan x="18.1572727" y="15">Title</tspan>
+                            </text>
+                        </g>
+                        <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="5.2325" y="13">A</tspan>
                         </text>
                     </g>
                 </g>
                 <text id="By-Lorem-Ipsumdolors" font-family="HelveticaNeue, Helvetica Neue" font-size="18.0000007" font-weight="normal" letter-spacing="0.300000226" fill="#FFFFFF">
-                    <tspan x="70" y="254">By Lorem Ipsumdolorsit</tspan>
+                    <tspan x="102" y="254">By Lorem Ipsumdolorsit</tspan>
                 </text>
             </g>
         </g>

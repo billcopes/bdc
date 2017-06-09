@@ -1,70 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1280px" height="339px" viewBox="0 0 1280 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1280px" height="636px" viewBox="0 0 1280 636" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
-    <title>3-column-link-group</title>
+    <title>event-header</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Pattern-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="3-column-link-group">
-            <rect id="Rectangle-7" fill="#F8F8F8" x="0" y="0" width="1280" height="339"></rect>
-            <text id="Lorem-ipsum-dolor" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" line-spacing="28" fill="#000000">
-                <tspan x="126" y="75">Lorem ipsum dolor</tspan>
+        <g id="event-header">
+            <rect id="Top-Gray" fill="#4A4A4A" x="0" y="0" width="1280" height="636"></rect>
+            <text id="Event-title-ipsum-do" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="43" font-weight="bold" line-spacing="75" letter-spacing="0.716667056" fill="#FFFFFF">
+                <tspan x="128" y="245">Event title ipsum dolor sit amet </tspan>
+                <tspan x="128" y="320">consecteteur adipsiging maecenas </tspan>
+                <tspan x="128" y="395">facibus mollis interdum lorem.</tspan>
             </text>
-            <text id="Lorem-ipsum-dolor" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" line-spacing="28" fill="#000000">
-                <tspan x="477" y="75">Lorem ipsum dolor</tspan>
-            </text>
-            <text id="Lorem-ipsum-dolor" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" line-spacing="28" fill="#000000">
-                <tspan x="835" y="75">Lorem ipsum dolor</tspan>
-            </text>
-            <g id="Group-6" transform="translate(126.000000, 228.000000)">
+            <g id="Group-6" transform="translate(128.000000, 488.000000)">
                 <rect id="Rectangle-5" stroke="#4990E2" x="0.5" y="0.5" width="302" height="62"></rect>
                 <g id="Group-7" transform="translate(25.000000, 11.000000)" fill="#4990E2">
-                    <text id="Lorem-ipsum" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34">
-                        <tspan x="0" y="20">Lorem ipsum</tspan>
+                    <text id="Register" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
+                        <tspan x="0" y="27">Register</tspan>
                     </text>
-                    <path d="M175,20 L245,20" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
-                    <path id="Line-Copy-9-decoration-1" d="M245,20 L234.2,17 L234.2,23 L245,20 Z" stroke="#4990E2" stroke-linecap="square"></path>
+                    <path d="M174.5,19.5 L244.5,19.5" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
+                    <path id="Line-Copy-9-decoration-1" d="M244.5,19.5 L233.7,16.5 L233.7,22.5 L244.5,19.5 Z" stroke="#4990E2" stroke-linecap="square"></path>
                 </g>
             </g>
-            <g id="Group-6" transform="translate(477.000000, 228.000000)">
-                <rect id="Rectangle-5" stroke="#4990E2" x="0.5" y="0.5" width="302" height="62"></rect>
-                <g id="Group-7" transform="translate(25.000000, 11.000000)" fill="#4990E2">
-                    <text id="Lorem-ipsum" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34">
-                        <tspan x="0" y="20">Lorem ipsum</tspan>
-                    </text>
-                    <path d="M175,20 L245,20" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
-                    <path id="Line-Copy-9-decoration-1" d="M245,20 L234.2,17 L234.2,23 L245,20 Z" stroke="#4990E2" stroke-linecap="square"></path>
-                </g>
+            <text id="OCT-15,-2017-1PM-–-4" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" line-spacing="37" letter-spacing="0.400000274" fill="#FFFFFF">
+                <tspan x="914" y="242">OCT 15, 2017</tspan>
+                <tspan x="914" y="279" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300">1PM – 4pm</tspan>
+            </text>
+            <text id="Life-Science-&amp;-Engin" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" line-spacing="24" letter-spacing="0.250000179" fill="#FFFFFF">
+                <tspan x="914" y="336">Life Science &amp; Engineering </tspan>
+                <tspan x="914" y="360">Building &amp; Center for Integrated </tspan>
+                <tspan x="914" y="384">Life Sciences and Engineering</tspan>
+                <tspan x="914" y="408"></tspan>
+                <tspan x="914" y="432">Boston University Charles River </tspan>
+                <tspan x="914" y="456">Campus</tspan>
+                <tspan x="914" y="480"></tspan>
+            </text>
+            <g id="Social" transform="translate(913.000000, 509.000000)">
+                <circle id="Oval" fill="#4990E2" cx="22" cy="22" r="22"></circle>
+                <circle id="Oval" fill="#4990E2" cx="78" cy="22" r="22"></circle>
+                <circle id="Oval" fill="#4990E2" cx="134" cy="22" r="22"></circle>
+                <text id="" font-family="FontAwesome" font-size="23" font-weight="normal" letter-spacing="0.383333594" fill="#FFFFFF">
+                    <tspan x="12" y="31"></tspan>
+                </text>
+                <text id="" font-family="FontAwesome" font-size="23" font-weight="normal" letter-spacing="0.383333594" fill="#FFFFFF">
+                    <tspan x="68" y="31"></tspan>
+                </text>
+                <text id="" font-family="FontAwesome" font-size="23" font-weight="normal" letter-spacing="0.383333594" fill="#FFFFFF">
+                    <tspan x="124" y="31"></tspan>
+                </text>
             </g>
-            <g id="Group-6" transform="translate(835.000000, 228.000000)">
-                <rect id="Rectangle-5" stroke="#4990E2" x="0.5" y="0.5" width="302" height="62"></rect>
-                <g id="Group-7" transform="translate(25.000000, 11.000000)" fill="#4990E2">
-                    <text id="Lorem-ipsum" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34">
-                        <tspan x="0" y="20">Lorem ipsum</tspan>
-                    </text>
-                    <path d="M175,20 L245,20" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
-                    <path id="Line-Copy-9-decoration-1" d="M245,20 L234.2,17 L234.2,23 L245,20 Z" stroke="#4990E2" stroke-linecap="square"></path>
-                </g>
-            </g>
-            <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
-                <tspan x="126" y="104">Ivamus reprehenderit sem ipsum nam </tspan>
-                <tspan x="126" y="132">vitae. Vel scelerisque nisl consectetur </tspan>
-                <tspan x="126" y="160">et. Cum sociis natoque penatibus et </tspan>
-                <tspan x="126" y="188">magnis dis parturient montes</tspan>
-            </text>
-            <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
-                <tspan x="477" y="104">Ivamus reprehenderit sem ipsum nam </tspan>
-                <tspan x="477" y="132">vitae. Vel scelerisque nisl consectetur </tspan>
-                <tspan x="477" y="160">et. Cum sociis natoque penatibus et </tspan>
-                <tspan x="477" y="188">magnis dis parturient montes</tspan>
-            </text>
-            <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
-                <tspan x="835" y="101">Ivamus reprehenderit sem ipsum nam </tspan>
-                <tspan x="835" y="129">vitae. Vel scelerisque nisl consectetur </tspan>
-                <tspan x="835" y="157">et. Cum sociis natoque penatibus et </tspan>
-                <tspan x="835" y="185">magnis dis parturient montes</tspan>
-            </text>
-            <g id="count-with-letter" transform="translate(29.000000, 44.000000)">
+            <g id="count-with-letter" transform="translate(33.000000, 222.000000)">
                 <g id="Group-3">
                     <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
                     <g id="Group-34" transform="translate(18.000000, 0.000000)">
@@ -73,10 +58,10 @@
                             <tspan x="12.925" y="48">CHAR</tspan>
                         </text>
                         <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
-                            <tspan x="21" y="34">40</tspan>
+                            <tspan x="21" y="34">60</tspan>
                         </text>
                         <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
-                            <tspan x="7.39772728" y="15">HEADER</tspan>
+                            <tspan x="14.6372727" y="15">TITLE</tspan>
                         </text>
                     </g>
                     <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
@@ -84,7 +69,7 @@
                     </text>
                 </g>
             </g>
-            <g id="count-with-letter" transform="translate(29.000000, 142.000000)">
+            <g id="count-with-letter" transform="translate(821.000000, 355.000000)">
                 <g id="Group-3">
                     <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
                     <g id="Group-34" transform="translate(18.000000, 0.000000)">
@@ -93,18 +78,18 @@
                             <tspan x="12.925" y="48">CHAR</tspan>
                         </text>
                         <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
-                            <tspan x="17.5" y="34">160</tspan>
+                            <tspan x="17.5" y="34">120</tspan>
                         </text>
                         <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
-                            <tspan x="12.9772727" y="15">DESC.</tspan>
+                            <tspan x="2.44363637" y="15">LOCATION</tspan>
                         </text>
                     </g>
                     <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
-                        <tspan x="5.128" y="13">B</tspan>
+                        <tspan x="4.9245" y="13">C</tspan>
                     </text>
                 </g>
             </g>
-            <g id="count-with-letter" transform="translate(29.000000, 227.000000)">
+            <g id="count-with-letter" transform="translate(33.000000, 493.000000)">
                 <g id="Group-3">
                     <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
                     <g id="Group-34" transform="translate(18.000000, 0.000000)">
@@ -120,7 +105,7 @@
                         </text>
                     </g>
                     <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
-                        <tspan x="4.9245" y="13">C</tspan>
+                        <tspan x="5.128" y="13">B</tspan>
                     </text>
                 </g>
             </g>

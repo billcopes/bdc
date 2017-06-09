@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="636px" viewBox="0 0 1280 636" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>news-article-header</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pattern-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="news-article-header">
+            <rect id="Top-Gray" fill="#4A4A4A" x="0" y="0" width="1280" height="636"></rect>
+            <text id="News-story-headline" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="43" font-weight="bold" line-spacing="75" letter-spacing="0.716667056" fill="#FFFFFF">
+                <tspan x="128" y="295">News story headline ipsum dolor </tspan>
+                <tspan x="128" y="370">sit amet consecteteur adipsiging </tspan>
+                <tspan x="128" y="445">maecenas facibus mollis </tspan>
+                <tspan x="128" y="520">interdum lorem dolor.</tspan>
+            </text>
+            <g id="count-with-letter" transform="translate(39.000000, 270.000000)">
+                <g id="Group-3">
+                    <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                    <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                        <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                        <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                            <tspan x="12.925" y="48">CHAR</tspan>
+                        </text>
+                        <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                            <tspan x="17.5" y="34">120</tspan>
+                        </text>
+                        <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                            <tspan x="14.6372727" y="15">TITLE</tspan>
+                        </text>
+                    </g>
+                    <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.2325" y="13">A</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Meta" transform="translate(913.000000, 405.000000)">
+                <text id="OCT-15,-2017" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="15" font-weight="bold" letter-spacing="0.250000179" fill="#FFFFFF">
+                    <tspan x="1" y="15">OCT 15, 2017</tspan>
+                </text>
+                <text id="By-Lorem-Ipsumdolors" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.250000179" fill="#FFFFFF">
+                    <tspan x="0" y="64">By Lorem Ipsumdolorsit</tspan>
+                </text>
+                <g id="Social" transform="translate(0.000000, 104.000000)">
+                    <circle id="Oval" fill="#4990E2" cx="22" cy="22" r="22"></circle>
+                    <circle id="Oval" fill="#4990E2" cx="78" cy="22" r="22"></circle>
+                    <circle id="Oval" fill="#4990E2" cx="134" cy="22" r="22"></circle>
+                    <text id="" font-family="FontAwesome" font-size="23" font-weight="normal" letter-spacing="0.383333594" fill="#FFFFFF">
+                        <tspan x="12" y="31"></tspan>
+                    </text>
+                    <text id="" font-family="FontAwesome" font-size="23" font-weight="normal" letter-spacing="0.383333594" fill="#FFFFFF">
+                        <tspan x="68" y="31"></tspan>
+                    </text>
+                    <text id="" font-family="FontAwesome" font-size="23" font-weight="normal" letter-spacing="0.383333594" fill="#FFFFFF">
+                        <tspan x="124" y="31"></tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

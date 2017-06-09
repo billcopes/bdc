@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1067px" height="387px" viewBox="0 0 1067 387" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>team-leaders-detail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1067" height="387"></rect>
+        <rect id="path-2" x="1" y="0" width="233" height="182"></rect>
+    </defs>
+    <g id="Pattern-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="team-leaders-detail">
+            <g id="Rectangle-5">
+                <use fill="#F8F8F8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#717171" stroke-width="1" x="0.5" y="0.5" width="1066" height="386"></rect>
+            </g>
+            <text id="" font-family="Ionicons" font-size="42" font-weight="400" letter-spacing="-0.531481504" fill="#4990E2">
+                <tspan x="1019" y="48"></tspan>
+            </text>
+            <g id="Group-4" transform="translate(20.000000, 18.000000)">
+                <g id="Group-Copy">
+                    <g id="Rectangle-2">
+                        <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#979797" stroke-width="1" x="1.5" y="0.5" width="232" height="181"></rect>
+                    </g>
+                    <path d="M0.232283465,0.253481894 L235.767717,181.746518" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <path d="M0.232283465,0.253481894 L235.767717,181.746518" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(118.000000, 91.000000) scale(-1, 1) translate(-118.000000, -91.000000) "></path>
+                </g>
+            </g>
+            <text id="Department-of-Biomed" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" line-spacing="20">
+                <tspan x="29" y="236" fill="#000000">Department of Biomedical </tspan>
+                <tspan x="29" y="256" fill="#000000">Engineering</tspan>
+                <tspan x="103.126" y="256" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="29" y="276" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#000000">Boston University</tspan>
+                <tspan x="29" y="296" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#000000">44 Cummington Mall</tspan>
+                <tspan x="29" y="316" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#000000">Boston, MA 02215</tspan>
+                <tspan x="29" y="336" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#000000"></tspan>
+                <tspan x="29" y="356" fill="#4990E2">chencs@bu.edu</tspan>
+            </text>
+            <text id="My-laboratory-seeks" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                <tspan x="307" y="137">My laboratory seeks to understand how cells interact with their environment, and to use this </tspan>
+                <tspan x="307" y="165">knowledge to control cell function. In particular, we are studying the cooperation between </tspan>
+                <tspan x="307" y="193">adhesive, mechanical and biochemical signaling in the regulation of angiogenesis and stem cell </tspan>
+                <tspan x="307" y="221">biology. To probe these questions in novel ways, our laboratory has developed a repertoire of </tspan>
+                <tspan x="307" y="249">unique micro- and nanofabrication tools to control and measure the adhesive and mechanical </tspan>
+                <tspan x="307" y="277">environment of cells. Using these tools in combination with traditional molecular approaches, we </tspan>
+                <tspan x="307" y="305">are investigating numerous regulatory interactions between mechanical forces and biochemical </tspan>
+                <tspan x="307" y="333">signaling, and between integrin-, cadherin-, and growth factor-mediated signaling. </tspan>
+            </text>
+            <text id="Christopher-S.-Chen," font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="30" font-weight="bold" line-spacing="34" fill="#000000">
+                <tspan x="307" y="64">Christopher S. Chen, M.D., Ph.D.</tspan>
+            </text>
+            <g id="count-with-letter" transform="translate(212.000000, 41.000000)">
+                <g id="Group-3">
+                    <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                    <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                        <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                        <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                            <tspan x="12.925" y="48">CHAR</tspan>
+                        </text>
+                        <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                            <tspan x="17.5" y="34">130</tspan>
+                        </text>
+                        <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                            <tspan x="14.6372727" y="15">TITLE</tspan>
+                        </text>
+                    </g>
+                    <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="4.9245" y="13">C</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="count-with-letter" transform="translate(212.000000, 166.000000)">
+                <g id="Group-3">
+                    <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                    <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                        <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                        <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                            <tspan x="7.735" y="48">WORDS</tspan>
+                        </text>
+                        <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                            <tspan x="7.5" y="34">50-150</tspan>
+                        </text>
+                        <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                            <tspan x="19.6763636" y="15">BIO</tspan>
+                        </text>
+                    </g>
+                    <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="4.9245" y="13">D</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Founding-Director:-D" font-family="HelveticaNeue, Helvetica Neue" font-size="13" font-weight="normal" line-spacing="20" fill="#000000">
+                <tspan x="307" y="90">Founding Director: Design of Tissue Structure, Assembly, and Function</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

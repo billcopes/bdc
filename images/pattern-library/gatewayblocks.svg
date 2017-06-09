@@ -6,90 +6,6 @@
     <defs></defs>
     <g id="Pattern-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="gatewayblocks">
-            <g id="Group-11">
-                <rect id="Rectangle" fill="#4A4A4A" x="0" y="0" width="1280" height="517"></rect>
-                <text id="Cras-pharetra-enim-s" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="45" fill="#FFFFFF">
-                    <tspan x="126" y="119">Cras pharetra enim sed purus venenatis in tristique </tspan>
-                    <tspan x="126" y="164">diam commodo.</tspan>
-                </text>
-                <rect id="Rectangle-5" stroke="#4990E2" x="132.5" y="236.5" width="302" height="62"></rect>
-                <g id="Group-7" transform="translate(157.000000, 255.000000)" fill="#4990E2">
-                    <text id="Molecular-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
-                        <tspan x="0" y="20">Molecular design</tspan>
-                    </text>
-                    <path d="M183,12 L245,12" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
-                    <path id="Line-Copy-9-decoration-1" d="M245,12 L234.2,9 L234.2,15 L245,12 Z" stroke="#4990E2" stroke-linecap="square"></path>
-                </g>
-                <rect id="Rectangle-5" stroke="#4990E2" x="674.5" y="236.5" width="302" height="62"></rect>
-                <g id="Group-7" transform="translate(699.000000, 254.000000)" fill="#4990E2">
-                    <text id="Cellular-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
-                        <tspan x="0" y="20">Cellular design</tspan>
-                    </text>
-                    <path d="M161,13 L223,13" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
-                    <path id="Line-Copy-9-decoration-1" d="M223,13 L212.2,10 L212.2,16 L223,13 Z" stroke="#4990E2" stroke-linecap="square"></path>
-                </g>
-                <rect id="Rectangle-5" stroke="#4990E2" x="674.5" y="342.5" width="302" height="62"></rect>
-                <rect id="Rectangle-5" stroke="#4990E2" x="133.5" y="345.5" width="302" height="62"></rect>
-                <g id="Group-7" transform="translate(699.000000, 360.000000)" fill="#4990E2">
-                    <text id="Tissue-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
-                        <tspan x="0" y="20">Tissue design</tspan>
-                    </text>
-                    <path d="M152,13 L214,13" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
-                    <path id="Line-Copy-9-decoration-1" d="M214,13 L203.2,10 L203.2,16 L214,13 Z" stroke="#4990E2" stroke-linecap="square"></path>
-                </g>
-                <g id="Group-7" transform="translate(158.000000, 364.000000)" fill="#4990E2">
-                    <text id="Microbic-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
-                        <tspan x="0" y="20">Microbic design</tspan>
-                    </text>
-                    <path d="M176,12 L238,12" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
-                    <path id="Line-Copy-9-decoration-1" d="M238,12 L227.2,9 L227.2,15 L238,12 Z" stroke="#4990E2" stroke-linecap="square"></path>
-                </g>
-            </g>
-            <g id="Group-18" transform="translate(0.000000, 549.000000)">
-                <rect id="Rectangle" fill="#4A4A4A" x="0" y="0" width="1280" height="369"></rect>
-                <rect id="Rectangle-5" stroke="#4990E2" x="120.5" y="223.5" width="302" height="62"></rect>
-                <g id="Group-7" transform="translate(145.000000, 243.000000)" fill="#4990E2">
-                    <text id="Molecular-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
-                        <tspan x="0" y="20">Molecular design</tspan>
-                    </text>
-                    <path d="M183,11 L245,11" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
-                    <path id="Line-Copy-9-decoration-1" d="M245,11 L234.2,8 L234.2,14 L245,11 Z" stroke="#4990E2" stroke-linecap="square"></path>
-                </g>
-                <text id="Cras-pharetra-enim-s" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="45" fill="#FFFFFF">
-                    <tspan x="126" y="106">Cras pharetra enim sed purus venenatis in </tspan>
-                    <tspan x="126" y="151">tristique diam commodo.</tspan>
-                </text>
-                <rect id="Rectangle-5" stroke="#4990E2" x="489.5" y="223.5" width="302" height="62"></rect>
-                <g id="Group-7" transform="translate(514.000000, 243.000000)" fill="#4990E2">
-                    <text id="Cellular-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
-                        <tspan x="0" y="20">Cellular design</tspan>
-                    </text>
-                    <path d="M161,11 L223,11" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
-                    <path id="Line-Copy-9-decoration-1" d="M223,11 L212.2,8 L212.2,14 L223,11 Z" stroke="#4990E2" stroke-linecap="square"></path>
-                </g>
-                <rect id="Rectangle-5" stroke="#4990E2" x="857.5" y="223.5" width="302" height="62"></rect>
-                <g id="Group-7" transform="translate(882.000000, 243.000000)" fill="#4990E2">
-                    <text id="Microbic-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
-                        <tspan x="0" y="20">Microbic design</tspan>
-                    </text>
-                    <path d="M176,11 L238,11" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
-                    <path id="Line-Copy-9-decoration-1" d="M238,11 L227.2,8 L227.2,14 L238,11 Z" stroke="#4990E2" stroke-linecap="square"></path>
-                </g>
-            </g>
-            <g id="Count" transform="translate(39.000000, 633.000000)">
-                <g id="Group-34">
-                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
-                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
-                        <tspan x="12" y="48">CHAR</tspan>
-                    </text>
-                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
-                        <tspan x="20.5" y="34">96</tspan>
-                    </text>
-                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
-                        <tspan x="7.39772728" y="15">HEADER</tspan>
-                    </text>
-                </g>
-            </g>
             <g id="Group-13" transform="translate(0.000000, 950.000000)">
                 <polygon id="Rectangle" fill="#4A4A4A" points="0 0 1280 0 1280 373 0 373"></polygon>
                 <text id="Engage-with-us-lorem" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="41" font-weight="bold" line-spacing="48" fill="#FFFFFF">
@@ -126,84 +42,219 @@
                     <path id="Line-Copy-9-decoration-1" d="M259,14 L248.2,11 L248.2,17 L259,14 Z" stroke="#4990E2" stroke-linecap="square"></path>
                 </g>
             </g>
-            <g id="Count" transform="translate(39.000000, 1014.000000)">
-                <g id="Group-34">
-                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
-                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
-                        <tspan x="12" y="48">CHAR</tspan>
-                    </text>
-                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
-                        <tspan x="20.5" y="34">96</tspan>
-                    </text>
-                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
-                        <tspan x="7.39772728" y="15">HEADER</tspan>
-                    </text>
-                </g>
-            </g>
-            <g id="Count" transform="translate(39.000000, 92.000000)">
-                <g id="Group-34">
-                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
-                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
-                        <tspan x="12" y="48">CHAR</tspan>
-                    </text>
-                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
-                        <tspan x="20.5" y="34">96</tspan>
-                    </text>
-                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
-                        <tspan x="7.39772728" y="15">HEADER</tspan>
+            <g id="count-with-letter" transform="translate(31.000000, 1014.000000)">
+                <g id="Group-3">
+                    <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                    <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                        <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                        <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                            <tspan x="12.925" y="48">CHAR</tspan>
+                        </text>
+                        <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                            <tspan x="21" y="34">96</tspan>
+                        </text>
+                        <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                            <tspan x="7.39772728" y="15">HEADER</tspan>
+                        </text>
+                    </g>
+                    <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.2325" y="13">A</tspan>
                     </text>
                 </g>
             </g>
-            <g id="Count" transform="translate(39.000000, 243.000000)">
-                <g id="Group-34">
-                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
-                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
-                        <tspan x="12" y="48">CHAR</tspan>
+            <g id="Group-32" transform="translate(0.000000, 549.000000)">
+                <g id="Group-18">
+                    <rect id="Rectangle" fill="#4A4A4A" x="0" y="0" width="1280" height="369"></rect>
+                    <rect id="Rectangle-5" stroke="#4990E2" x="120.5" y="223.5" width="302" height="62"></rect>
+                    <g id="Group-7" transform="translate(145.000000, 243.000000)" fill="#4990E2">
+                        <text id="Molecular-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
+                            <tspan x="0" y="20">Molecular design</tspan>
+                        </text>
+                        <path d="M183,11 L245,11" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
+                        <path id="Line-Copy-9-decoration-1" d="M245,11 L234.2,8 L234.2,14 L245,11 Z" stroke="#4990E2" stroke-linecap="square"></path>
+                    </g>
+                    <text id="Cras-pharetra-enim-s" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="45" fill="#FFFFFF">
+                        <tspan x="126" y="106">Cras pharetra enim sed purus venenatis in </tspan>
+                        <tspan x="126" y="151">tristique diam commodo.</tspan>
                     </text>
-                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
-                        <tspan x="20.5" y="34">40</tspan>
+                    <rect id="Rectangle-5" stroke="#4990E2" x="489.5" y="223.5" width="302" height="62"></rect>
+                    <g id="Group-7" transform="translate(514.000000, 243.000000)" fill="#4990E2">
+                        <text id="Cellular-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
+                            <tspan x="0" y="20">Cellular design</tspan>
+                        </text>
+                        <path d="M161,11 L223,11" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
+                        <path id="Line-Copy-9-decoration-1" d="M223,11 L212.2,8 L212.2,14 L223,11 Z" stroke="#4990E2" stroke-linecap="square"></path>
+                    </g>
+                    <rect id="Rectangle-5" stroke="#4990E2" x="857.5" y="223.5" width="302" height="62"></rect>
+                    <g id="Group-7" transform="translate(882.000000, 243.000000)" fill="#4990E2">
+                        <text id="Microbic-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
+                            <tspan x="0" y="20">Microbic design</tspan>
+                        </text>
+                        <path d="M176,11 L238,11" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
+                        <path id="Line-Copy-9-decoration-1" d="M238,11 L227.2,8 L227.2,14 L238,11 Z" stroke="#4990E2" stroke-linecap="square"></path>
+                    </g>
+                </g>
+                <g id="count-with-letter" transform="translate(31.000000, 84.000000)">
+                    <g id="Group-3">
+                        <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                        <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                            <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                            <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                                <tspan x="12.925" y="48">CHAR</tspan>
+                            </text>
+                            <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                                <tspan x="21" y="34">96</tspan>
+                            </text>
+                            <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                                <tspan x="7.39772728" y="15">HEADER</tspan>
+                            </text>
+                        </g>
+                        <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="5.2325" y="13">A</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="count-with-letter" transform="translate(31.000000, 223.000000)">
+                    <g id="Group-3">
+                        <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                        <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                            <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                            <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                                <tspan x="12.925" y="48">CHAR</tspan>
+                            </text>
+                            <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                                <tspan x="21" y="34">40</tspan>
+                            </text>
+                            <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                                <tspan x="16.8868182" y="15">LINK</tspan>
+                            </text>
+                        </g>
+                        <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="5.128" y="13">B</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-30">
+                <g id="Group-11">
+                    <rect id="Rectangle" fill="#4A4A4A" x="0" y="0" width="1280" height="517"></rect>
+                    <text id="Cras-pharetra-enim-s" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="45" fill="#FFFFFF">
+                        <tspan x="126" y="119">Cras pharetra enim sed purus venenatis in tristique </tspan>
+                        <tspan x="126" y="164">diam commodo.</tspan>
                     </text>
-                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
-                        <tspan x="16.8868182" y="15">LINK</tspan>
+                    <rect id="Rectangle-5" stroke="#4990E2" x="132.5" y="236.5" width="302" height="62"></rect>
+                    <g id="Group-7" transform="translate(157.000000, 255.000000)" fill="#4990E2">
+                        <text id="Molecular-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
+                            <tspan x="0" y="20">Molecular design</tspan>
+                        </text>
+                        <path d="M183,12 L245,12" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
+                        <path id="Line-Copy-9-decoration-1" d="M245,12 L234.2,9 L234.2,15 L245,12 Z" stroke="#4990E2" stroke-linecap="square"></path>
+                    </g>
+                    <rect id="Rectangle-5" stroke="#4990E2" x="674.5" y="236.5" width="302" height="62"></rect>
+                    <g id="Group-7" transform="translate(699.000000, 254.000000)" fill="#4990E2">
+                        <text id="Cellular-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
+                            <tspan x="0" y="20">Cellular design</tspan>
+                        </text>
+                        <path d="M161,13 L223,13" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
+                        <path id="Line-Copy-9-decoration-1" d="M223,13 L212.2,10 L212.2,16 L223,13 Z" stroke="#4990E2" stroke-linecap="square"></path>
+                    </g>
+                    <rect id="Rectangle-5" stroke="#4990E2" x="674.5" y="342.5" width="302" height="62"></rect>
+                    <rect id="Rectangle-5" stroke="#4990E2" x="133.5" y="345.5" width="302" height="62"></rect>
+                    <g id="Group-7" transform="translate(699.000000, 360.000000)" fill="#4990E2">
+                        <text id="Tissue-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
+                            <tspan x="0" y="20">Tissue design</tspan>
+                        </text>
+                        <path d="M152,13 L214,13" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
+                        <path id="Line-Copy-9-decoration-1" d="M214,13 L203.2,10 L203.2,16 L214,13 Z" stroke="#4990E2" stroke-linecap="square"></path>
+                    </g>
+                    <g id="Group-7" transform="translate(158.000000, 364.000000)" fill="#4990E2">
+                        <text id="Microbic-design" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="20">
+                            <tspan x="0" y="20">Microbic design</tspan>
+                        </text>
+                        <path d="M176,12 L238,12" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
+                        <path id="Line-Copy-9-decoration-1" d="M238,12 L227.2,9 L227.2,15 L238,12 Z" stroke="#4990E2" stroke-linecap="square"></path>
+                    </g>
+                </g>
+                <g id="count-with-letter" transform="translate(31.000000, 92.000000)">
+                    <g id="Group-3">
+                        <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                        <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                            <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                            <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                                <tspan x="12.925" y="48">CHAR</tspan>
+                            </text>
+                            <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                                <tspan x="21" y="34">96</tspan>
+                            </text>
+                            <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                                <tspan x="7.39772728" y="15">HEADER</tspan>
+                            </text>
+                        </g>
+                        <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="5.2325" y="13">A</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="count-with-letter" transform="translate(31.000000, 233.000000)">
+                    <g id="Group-3">
+                        <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                        <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                            <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                            <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                                <tspan x="12.925" y="48">CHAR</tspan>
+                            </text>
+                            <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                                <tspan x="21" y="34">40</tspan>
+                            </text>
+                            <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                                <tspan x="16.8868182" y="15">LINK</tspan>
+                            </text>
+                        </g>
+                        <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="5.128" y="13">B</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="count-with-letter" transform="translate(31.000000, 1170.000000)">
+                <g id="Group-3">
+                    <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                    <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                        <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                        <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                            <tspan x="12.925" y="48">CHAR</tspan>
+                        </text>
+                        <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                            <tspan x="21" y="34">40</tspan>
+                        </text>
+                        <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                            <tspan x="16.8868182" y="15">LINK</tspan>
+                        </text>
+                    </g>
+                    <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.128" y="13">B</tspan>
                     </text>
                 </g>
             </g>
-            <g id="Count" transform="translate(39.000000, 769.000000)">
-                <g id="Group-34">
-                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
-                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
-                        <tspan x="12" y="48">CHAR</tspan>
-                    </text>
-                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
-                        <tspan x="20.5" y="34">40</tspan>
-                    </text>
-                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
-                        <tspan x="16.8868182" y="15">LINK</tspan>
-                    </text>
-                </g>
-            </g>
-            <g id="Count" transform="translate(39.000000, 1170.000000)">
-                <g id="Group-34">
-                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
-                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
-                        <tspan x="12" y="48">CHAR</tspan>
-                    </text>
-                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
-                        <tspan x="20.5" y="34">40</tspan>
-                    </text>
-                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
-                        <tspan x="16.8868182" y="15">LINK</tspan>
+            <g id="count-with-letter" transform="translate(379.000000, 1008.000000)">
+                <g id="Group-3">
+                    <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                    <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                        <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                        <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                            <tspan x="12.925" y="48">CHAR</tspan>
+                        </text>
+                        <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                            <tspan x="17.5" y="34">190</tspan>
+                        </text>
+                        <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                            <tspan x="12.9772727" y="15">DESC.</tspan>
+                        </text>
+                    </g>
+                    <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="4.9245" y="13">C</tspan>
                     </text>
                 </g>
-            </g>
-            <g id="Group-34" transform="translate(478.000000, 973.000000)">
-                <path d="M27.4886198,40 L46,40 C47.6568542,40 49,38.6568542 49,37 L49,37 L49,3 C49,1.34314575 47.6568542,-4.27501655e-15 46,4.4408921e-16 L46,0 L3,0 L3,4.4408921e-16 C1.34314575,7.48448398e-16 2.41183085e-16,1.34314575 4.4408921e-16,3 L0,3 L4.4408921e-16,37 C6.46995335e-16,38.6568542 1.34314575,40 3,40 L22.1266146,40 L24.8076172,53.3461914 L27.4886198,40 Z" id="Combined-Shape" fill="#F5E900"></path>
-                <text id="190" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
-                    <tspan x="14" y="18">190</tspan>
-                </text>
-                <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
-                    <tspan x="8" y="32">CHAR</tspan>
-                </text>
             </g>
         </g>
     </g>

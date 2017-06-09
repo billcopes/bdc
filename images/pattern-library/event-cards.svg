@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1270px" height="798px" viewBox="0 0 1270 798" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>event-cards</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pattern-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="event-cards">
+            <rect id="Rectangle-9" fill="#FFFFFF" x="0" y="0" width="1270" height="798"></rect>
+            <g id="Group-11" transform="translate(72.000000, 42.000000)">
+                <circle id="Oval-3" stroke="#979797" cx="163.5" cy="163.5" r="163.5"></circle>
+                <text id="OCT-10,-2017" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="16" fill="#000000">
+                    <tspan x="113.5" y="31">OCT 10, 2017</tspan>
+                </text>
+                <text id="Molecular" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="34" fill="#000000">
+                    <tspan x="128.388" y="293">Molecular</tspan>
+                </text>
+            </g>
+            <g id="Group-10" transform="translate(421.000000, 42.000000)">
+                <path d="M163,324 C253.022414,324 326,262.190625 326,185.944896 L326,3.37230244e-15 L0,0 C0,0 1.13686838e-13,180.100766 0,185.944896 C0,262.190625 72.9775858,324 163,324 Z" id="Oval-2-Copy" stroke="#979797" transform="translate(163.000000, 162.000000) rotate(-360.000000) translate(-163.000000, -162.000000) "></path>
+                <text id="OCT-10,-2017" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="16" fill="#000000">
+                    <tspan x="112.5" y="31">OCT 10, 2017</tspan>
+                </text>
+                <text id="Microbic" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="34" fill="#000000">
+                    <tspan x="132.388" y="293">Microbic</tspan>
+                </text>
+            </g>
+            <g id="Group-9" transform="translate(770.000000, 42.000000)">
+                <text id="OCT-10,-2017" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="16" fill="#000000">
+                    <tspan x="113.5" y="31">OCT 10, 2017</tspan>
+                </text>
+                <text id="Cellular" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="34" fill="#000000">
+                    <tspan x="139.192" y="293">Cellular</tspan>
+                </text>
+                <rect id="Rectangle-7" stroke="#9B9B9B" x="0.5" y="0.5" width="326" height="326"></rect>
+            </g>
+            <g id="Group-15" transform="translate(421.000000, 399.000000)">
+                <text id="OCT-10,-2017" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="16" fill="#000000">
+                    <tspan x="113.5" y="31">OCT 10, 2017</tspan>
+                </text>
+                <text id="Cellular-+-Molecular" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="34" fill="#000000">
+                    <tspan x="95.332" y="293">Cellular + Molecular</tspan>
+                </text>
+                <rect id="Rectangle-7" stroke="#9B9B9B" x="0.5" y="0.5" width="326" height="326"></rect>
+                <circle id="Oval-3" stroke="#979797" cx="163.5" cy="163.5" r="163.5"></circle>
+            </g>
+            <g id="Group" transform="translate(73.000000, 404.000000)">
+                <path d="M163,324 C253.022414,324 326,262.190625 326,185.944896 L326,3.37230244e-15 L0,0 C0,0 1.13686838e-13,180.100766 0,185.944896 C0,262.190625 72.9775858,324 163,324 Z" id="Oval-2-Copy" stroke="#979797" transform="translate(163.000000, 162.000000) scale(1, -1) rotate(-360.000000) translate(-163.000000, -162.000000) "></path>
+                <text id="OCT-10,-2017" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="16" fill="#000000">
+                    <tspan x="112.5" y="31">OCT 10, 2017</tspan>
+                </text>
+                <text id="Tissue" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="34" fill="#000000">
+                    <tspan x="140.388" y="293">Tissue</tspan>
+                </text>
+            </g>
+            <g id="count-with-letter" transform="translate(22.000000, 114.000000)">
+                <g id="Group-3">
+                    <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                    <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                        <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                        <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                            <tspan x="12.925" y="48">CHAR</tspan>
+                        </text>
+                        <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                            <tspan x="21" y="34">60</tspan>
+                        </text>
+                        <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                            <tspan x="14.6372727" y="15">TITLE</tspan>
+                        </text>
+                    </g>
+                    <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.2325" y="13">A</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="count-with-letter" transform="translate(22.000000, 213.000000)">
+                <g id="Group-3">
+                    <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                    <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                        <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                        <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                            <tspan x="12.925" y="48">CHAR</tspan>
+                        </text>
+                        <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                            <tspan x="21" y="34">90</tspan>
+                        </text>
+                        <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                            <tspan x="14.5718182" y="15">DESC</tspan>
+                        </text>
+                    </g>
+                    <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.128" y="13">B</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Event-title-lorem-ip" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="24" fill="#4990E2">
+                <tspan x="118" y="136">Event title lorem ipsum </tspan>
+                <tspan x="118" y="160">dolor sit amet</tspan>
+            </text>
+            <text id="Event-title-lorem-ip" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="24" fill="#4990E2">
+                <tspan x="118" y="500">Event title lorem ipsum </tspan>
+                <tspan x="118" y="524">dolor sit amet</tspan>
+            </text>
+            <text id="Event-title-lorem-ip" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="24" fill="#4990E2">
+                <tspan x="453" y="136">Event title lorem ipsum </tspan>
+                <tspan x="453" y="160">dolor sit amet</tspan>
+            </text>
+            <text id="Event-title-lorem-ip" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="24" fill="#4990E2">
+                <tspan x="453" y="500">Event title lorem ipsum </tspan>
+                <tspan x="453" y="524">dolor sit amet</tspan>
+            </text>
+            <text id="1pm-–-4pm" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.250000179" fill="#000000">
+                <tspan x="118" y="190">1pm – 4pm</tspan>
+            </text>
+            <text id="1pm-–-4pm" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.250000179" fill="#000000">
+                <tspan x="118" y="554">1pm – 4pm</tspan>
+            </text>
+            <text id="1pm-–-4pm" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.250000179" fill="#000000">
+                <tspan x="453" y="190">1pm – 4pm</tspan>
+            </text>
+            <text id="1pm-–-4pm" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.250000179" fill="#000000">
+                <tspan x="453" y="554">1pm – 4pm</tspan>
+            </text>
+            <text id="Seminar-by-John-Smit" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.933333337" fill="#000000">
+                <tspan x="118" y="224">Seminar by John Smith</tspan>
+                <tspan x="118" y="244">Maecenas faucibus mollis interdum </tspan>
+                <tspan x="118" y="264">lorem dolor.</tspan>
+            </text>
+            <text id="Seminar-by-John-Smit" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.933333337" fill="#000000">
+                <tspan x="118" y="588">Seminar by John Smith</tspan>
+                <tspan x="118" y="608">Maecenas faucibus mollis interdum </tspan>
+                <tspan x="118" y="628">lorem dolor.</tspan>
+            </text>
+            <text id="Seminar-by-John-Smit" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.933333337" fill="#000000">
+                <tspan x="453" y="224">Seminar by John Smith</tspan>
+                <tspan x="453" y="244">Maecenas faucibus mollis interdum </tspan>
+                <tspan x="453" y="264">lorem dolor.</tspan>
+            </text>
+            <text id="Seminar-by-John-Smit" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.933333337" fill="#000000">
+                <tspan x="453" y="588">Seminar by John Smith</tspan>
+                <tspan x="453" y="608">Maecenas faucibus mollis interdum </tspan>
+                <tspan x="453" y="628">lorem dolor.</tspan>
+            </text>
+            <text id="Event-title-lorem-ip" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="24" fill="#4990E2">
+                <tspan x="804" y="136">Event title lorem ipsum </tspan>
+                <tspan x="804" y="160">dolor sit amet</tspan>
+            </text>
+            <text id="1pm-–-4pm" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.250000179" fill="#000000">
+                <tspan x="804" y="190">1pm – 4pm</tspan>
+            </text>
+            <text id="Seminar-by-John-Smit" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.933333337" fill="#000000">
+                <tspan x="804" y="224">Seminar by John Smith</tspan>
+                <tspan x="804" y="244">Maecenas faucibus mollis interdum </tspan>
+                <tspan x="804" y="264">lorem dolor.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

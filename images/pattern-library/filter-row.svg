@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 143" style="enable-background:new 0 0 1280 143;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#4990E2;stroke-linecap:square;}
+	.st2{fill:#4990E2;}
+	.st3{font-family:'HelveticaNeue-Bold';}
+	.st4{font-size:16px;}
+	.st5{enable-background:new    ;}
+	.st6{font-family:'HelveticaNeue';}
+	.st7{font-size:12px;}
+</style>
+<title>filter-row</title>
+<desc>Created with Sketch.</desc>
+<g id="Pattern-Library">
+	<g id="filter-row">
+		<rect id="Rectangle-7" class="st0" width="1280" height="142.1"/>
+		<path id="Line-Copy-10" class="st1" d="M127,95h23"/>
+		<path id="Line-Copy-11" class="st1" d="M684,95h23"/>
+		<text transform="matrix(1 0 0 1 128 86)" class="st2 st3 st4">All</text>
+		<text transform="matrix(1 0 0 1 148.0158 86)" class="st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 169.266 86)" class="st5"><tspan x="0" y="0" class="st2 st6 st4">Molecular</tspan><tspan x="70.2" y="0" class="st0 st6 st4">fff</tspan><tspan x="84.4" y="0" class="st2 st6 st4">Cellular</tspan><tspan x="138" y="0" class="st0 st6 st4">fff</tspan><tspan x="152.3" y="0" class="st2 st6 st4">Tissue</tspan><tspan x="198.5" y="0" class="st0 st6 st4">fff</tspan><tspan x="212.7" y="0" class="st2 st6 st4">Microbic</tspan></text>
+		<text transform="matrix(1 0 0 1 685 86)" class="st2 st3 st4">All</text>
+		<text transform="matrix(1 0 0 1 705.0159 86)" class="st2 st3 st4"> </text>
+		<text transform="matrix(1 0 0 1 725.016 86)" class="st5"><tspan x="0" y="0" class="st2 st6 st4">PIs + Faculty</tspan><tspan x="92.9" y="0" class="st0 st6 st4">fff</tspan><tspan x="107.1" y="0" class="st2 st6 st4">Postdoctorals</tspan><tspan x="206.6" y="0" class="st0 st6 st4">fff</tspan><tspan x="220.8" y="0" class="st2 st6 st4">Graduate students</tspan><tspan x="353.9" y="0" class="st0 st6 st4">fff</tspan><tspan x="368.1" y="0" class="st2 st6 st4">Staff</tspan></text>
+		<text transform="matrix(1 0 0 1 128 55)" class="st3 st7">Focus areas:</text>
+		<text transform="matrix(1 0 0 1 685 55)" class="st3 st7">Filter by:</text>
+	</g>
+</g>
+</svg>

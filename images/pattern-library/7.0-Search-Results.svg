@@ -14,6 +14,7 @@
             <g id="Group-2" transform="translate(480.000000, 516.000000)"></g>
             <g id="Group-3">
                 <polygon id="Rectangle" fill="#4A4A4A" points="0 0 1280 0 1280 355 0 355"></polygon>
+                <polygon id="Rectangle" fill="#4A4A4A" points="0 0 1280 0 1280 355 0 355"></polygon>
                 <rect id="Rectangle-4" fill="#FFFFFF" x="480" y="251" width="690" height="66"></rect>
                 <text id="Biomimetic-Biology" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" fill="#000000">
                     <tspan x="500" y="293">Biomimetic Biology</tspan>
@@ -22,6 +23,190 @@
                 <text id="88-Results" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="43" font-weight="bold" line-spacing="75" letter-spacing="0.716667056" fill="#FFFFFF">
                     <tspan x="145" y="295">88 Results</tspan>
                 </text>
+                <g id="Group-6" transform="translate(0.000000, 459.000000)">
+                    <polygon id="Rectangle" fill="#FFFFFF" points="0 0 1280 0 1280 1631 0 1631"></polygon>
+                    <text id="Publication" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
+                        <tspan x="174" y="81">Publication</tspan>
+                    </text>
+                    <text id="Publication" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
+                        <tspan x="174" y="835">Publication</tspan>
+                    </text>
+                    <text id="Publication" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
+                        <tspan x="174" y="939">Publication</tspan>
+                    </text>
+                    <text id="News" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
+                        <tspan x="174" y="179">News</tspan>
+                    </text>
+                    <text id="Site-Page" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
+                        <tspan x="174" y="343">Site Page</tspan>
+                    </text>
+                    <text id="Site-Page" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
+                        <tspan x="174" y="1043">Site Page</tspan>
+                    </text>
+                    <path d="M145,39 L1170,39" id="Line" stroke="#717171" stroke-linecap="square"></path>
+                    <path d="M145,793 L1170,793" id="Line" stroke="#717171" stroke-linecap="square"></path>
+                    <path d="M145,1493 L1170,1493" id="Line" stroke="#717171" stroke-linecap="square"></path>
+                    <path d="M145,897 L1170,897" id="Line" stroke="#717171" stroke-linecap="square"></path>
+                    <path d="M145,137 L1170,137" id="Line" stroke="#717171" stroke-linecap="square"></path>
+                    <path d="M145,301 L1170,301" id="Line" stroke="#717171" stroke-linecap="square"></path>
+                    <path d="M145,1001 L1170,1001" id="Line" stroke="#717171" stroke-linecap="square"></path>
+                    <text id="Event" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
+                        <tspan x="174" y="507">Event</tspan>
+                    </text>
+                    <text id="News" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
+                        <tspan x="174" y="1207">News</tspan>
+                    </text>
+                    <path d="M145,465 L1170,465" id="Line" stroke="#717171" stroke-linecap="square"></path>
+                    <path d="M145,1165 L1170,1165" id="Line" stroke="#717171" stroke-linecap="square"></path>
+                    <text id="Site-Page" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
+                        <tspan x="174" y="671">Site Page</tspan>
+                    </text>
+                    <text id="Event" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
+                        <tspan x="174" y="1371">Event</tspan>
+                    </text>
+                    <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="677" y="61" width="113" height="27"></rect>
+                    <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="552" y="159" width="113" height="27"></rect>
+                    <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="675 230 729 230 729 250 675 250"></polygon>
+                    <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="675 395 729 395 729 415 675 415"></polygon>
+                    <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="675 559 729 559 729 579 675 579"></polygon>
+                    <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="675 722 729 722 729 742 675 742"></polygon>
+                    <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="675 1094 729 1094 729 1114 675 1114"></polygon>
+                    <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="675 1259 729 1259 729 1279 675 1279"></polygon>
+                    <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="675 1422 729 1422 729 1442 675 1442"></polygon>
+                    <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="552" y="323" width="113" height="27"></rect>
+                    <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="552" y="487" width="113" height="27"></rect>
+                    <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="552" y="651" width="113" height="27"></rect>
+                    <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="552" y="1023" width="113" height="27"></rect>
+                    <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="552" y="1188" width="113" height="27"></rect>
+                    <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="552" y="1352" width="113" height="27"></rect>
+                    <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="551" y="93" width="78" height="27"></rect>
+                    <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="677" y="815" width="113" height="27"></rect>
+                    <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="551" y="847" width="78" height="27"></rect>
+                    <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="677" y="919" width="113" height="27"></rect>
+                    <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="551" y="951" width="78" height="27"></rect>
+                    <text id="Chen,-C.S.-(2016)-3D" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
+                        <tspan x="480" y="77">Chen, C.S. (2016) 3D </tspan>
+                        <tspan x="679" y="77">Biomimetic</tspan>
+                        <tspan x="787.02" y="77"> Cultures: The Next Platform </tspan>
+                        <tspan x="480" y="109">for Cell </tspan>
+                        <tspan x="554.4" y="109">Biology</tspan>
+                        <tspan x="625.84" y="109"> Trends Cell Biol. 1278:1-3</tspan>
+                    </text>
+                    <text id="Chen,-C.S.-(2016)-3D" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
+                        <tspan x="480" y="831">Chen, C.S. (2016) 3D </tspan>
+                        <tspan x="679" y="831">Biomimetic</tspan>
+                        <tspan x="787.02" y="831"> Cultures: The Next Platform </tspan>
+                        <tspan x="480" y="863">for Cell </tspan>
+                        <tspan x="554.4" y="863">Biology</tspan>
+                        <tspan x="625.84" y="863"> Trends Cell Biol. 1278:1-3</tspan>
+                    </text>
+                    <text id="Chen,-C.S.-(2016)-3D" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
+                        <tspan x="480" y="935">Chen, C.S. (2016) 3D Biomimetic Cultures: The Next Platform </tspan>
+                        <tspan x="480" y="967">for Cell Biology Trends Cell Biol. 1278:1-3</tspan>
+                    </text>
+                    <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
+                        <tspan x="480" y="175">Cursus Biomimetic volutpat aenean vel tristique venenatis ut vitae leo </tspan>
+                        <tspan x="480" y="207">sapien lorem ipsum</tspan>
+                    </text>
+                    <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
+                        <tspan x="480" y="339">Cursus Biomimetic volutpat aenean vel tristique venenatis ut </tspan>
+                        <tspan x="480" y="371">vitae leo sapien lorem ipsum</tspan>
+                    </text>
+                    <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
+                        <tspan x="480" y="1038">Cursus Biomimetic volutpat aenean vel tristique venenatis ut </tspan>
+                        <tspan x="480" y="1070">vitae leo sapien lorem ipsum</tspan>
+                    </text>
+                    <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
+                        <tspan x="480" y="240">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
+                        <tspan x="480" y="267">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
+                    </text>
+                    <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
+                        <tspan x="480" y="404">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
+                        <tspan x="480" y="431">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
+                    </text>
+                    <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
+                        <tspan x="480" y="1104">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
+                        <tspan x="480" y="1131">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
+                    </text>
+                    <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
+                        <tspan x="480" y="503">Cursus Biomimetic volutpat aenean vel tristique venenatis ut </tspan>
+                        <tspan x="480" y="535">vitae leo sapien lorem ipsum</tspan>
+                    </text>
+                    <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
+                        <tspan x="480" y="1203">Cursus Biomimetic volutpat aenean vel tristique venenatis ut </tspan>
+                        <tspan x="480" y="1235">vitae leo sapien lorem ipsum</tspan>
+                    </text>
+                    <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
+                        <tspan x="480" y="568">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
+                        <tspan x="480" y="595">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
+                    </text>
+                    <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
+                        <tspan x="480" y="1268">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
+                        <tspan x="480" y="1295">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
+                    </text>
+                    <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
+                        <tspan x="480" y="667">Cursus Biomimetic volutpat aenean vel tristique venenatis ut </tspan>
+                        <tspan x="480" y="699">vitae leo sapien lorem ipsum</tspan>
+                    </text>
+                    <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
+                        <tspan x="480" y="1367">Cursus Biomimetic volutpat aenean vel tristique venenatis ut </tspan>
+                        <tspan x="480" y="1399">vitae leo sapien lorem ipsum</tspan>
+                    </text>
+                    <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
+                        <tspan x="480" y="732">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
+                        <tspan x="480" y="759">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
+                    </text>
+                    <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
+                        <tspan x="480" y="1432">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
+                        <tspan x="480" y="1459">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
+                    </text>
+                    <path d="M145,629 L1170,629" id="Line" stroke="#717171" stroke-linecap="square"></path>
+                    <path d="M145,1329 L1170,1329" id="Line" stroke="#717171" stroke-linecap="square"></path>
+                    <polygon id="Triangle" fill="#4990E2" points="1166 1539 1150 1526 1150 1552"></polygon>
+                    <text id="Page-2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" letter-spacing="2.57142854" fill="#4990E2">
+                        <tspan x="1027" y="1547">Page 2</tspan>
+                    </text>
+                    <g id="count-with-letter" transform="translate(383.000000, 57.000000)">
+                        <g id="Group-3">
+                            <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                            <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                                <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                                <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                                    <tspan x="12.925" y="48">CHAR</tspan>
+                                </text>
+                                <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                                    <tspan x="17.5" y="34">124</tspan>
+                                </text>
+                                <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                                    <tspan x="14.6372727" y="15">TITLE</tspan>
+                                </text>
+                            </g>
+                            <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="5.2325" y="13">A</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="count-with-letter" transform="translate(383.000000, 226.000000)">
+                        <g id="Group-3">
+                            <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                            <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                                <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                                <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                                    <tspan x="12.925" y="48">CHAR</tspan>
+                                </text>
+                                <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                                    <tspan x="17.5" y="34">176</tspan>
+                                </text>
+                                <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                                    <tspan x="10.9127273" y="15">DETAIL</tspan>
+                                </text>
+                            </g>
+                            <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="5.128" y="13">B</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
             </g>
             <g id="Navigation-Original" transform="translate(124.000000, 29.000000)">
                 <g id="logo-mark" transform="translate(938.000000, 32.000000)">
@@ -97,149 +282,7 @@
                 <path d="M840,25.6788991 C834.111633,25.6788991 829.321101,20.888367 829.321101,15 C829.321101,9.11163303 834.111633,4.32110092 840,4.32110092 C845.888367,4.32110092 850.678899,9.11163303 850.678899,15 C850.678899,20.888367 845.888367,25.6788991 840,25.6788991 M840,3 C833.383046,3 828,8.38304587 828,15 C828,21.6169541 833.383046,27 840,27 C846.616954,27 852,21.6169541 852,15 C852,8.38304587 846.616954,3 840,3" id="Fill-3" fill="#4990E2"></path>
                 <rect id="Rectangle-3" fill="#4990E2" x="265" y="25" width="85" height="4"></rect>
             </g>
-            <g id="Group-4" transform="translate(145.000000, 497.000000)">
-                <text id="Publication" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
-                    <tspan x="29" y="43">Publication</tspan>
-                </text>
-                <text id="Publication" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
-                    <tspan x="29" y="797">Publication</tspan>
-                </text>
-                <text id="Publication" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
-                    <tspan x="29" y="901">Publication</tspan>
-                </text>
-                <text id="News" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
-                    <tspan x="29" y="141">News</tspan>
-                </text>
-                <text id="Site-Page" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
-                    <tspan x="29" y="305">Site Page</tspan>
-                </text>
-                <text id="Site-Page" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
-                    <tspan x="29" y="1005">Site Page</tspan>
-                </text>
-                <path d="M0,1 L1025,1" id="Line" stroke="#717171" stroke-linecap="square"></path>
-                <path d="M0,755 L1025,755" id="Line" stroke="#717171" stroke-linecap="square"></path>
-                <path d="M0,1455 L1025,1455" id="Line" stroke="#717171" stroke-linecap="square"></path>
-                <path d="M0,859 L1025,859" id="Line" stroke="#717171" stroke-linecap="square"></path>
-                <path d="M0,99 L1025,99" id="Line" stroke="#717171" stroke-linecap="square"></path>
-                <path d="M0,263 L1025,263" id="Line" stroke="#717171" stroke-linecap="square"></path>
-                <path d="M0,963 L1025,963" id="Line" stroke="#717171" stroke-linecap="square"></path>
-                <text id="Event" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
-                    <tspan x="29" y="469">Event</tspan>
-                </text>
-                <text id="News" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
-                    <tspan x="29" y="1169">News</tspan>
-                </text>
-                <path d="M0,427 L1025,427" id="Line" stroke="#717171" stroke-linecap="square"></path>
-                <path d="M0,1127 L1025,1127" id="Line" stroke="#717171" stroke-linecap="square"></path>
-                <text id="Site-Page" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
-                    <tspan x="29" y="633">Site Page</tspan>
-                </text>
-                <text id="Event" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#000000">
-                    <tspan x="29" y="1333">Event</tspan>
-                </text>
-                <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="532" y="23" width="113" height="27"></rect>
-                <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="407" y="121" width="113" height="27"></rect>
-                <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="530 192 584 192 584 212 530 212"></polygon>
-                <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="530 357 584 357 584 377 530 377"></polygon>
-                <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="530 521 584 521 584 541 530 541"></polygon>
-                <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="530 684 584 684 584 704 530 704"></polygon>
-                <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="530 1056 584 1056 584 1076 530 1076"></polygon>
-                <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="530 1221 584 1221 584 1241 530 1241"></polygon>
-                <polygon id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" points="530 1384 584 1384 584 1404 530 1404"></polygon>
-                <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="407" y="285" width="113" height="27"></rect>
-                <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="407" y="449" width="113" height="27"></rect>
-                <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="407" y="613" width="113" height="27"></rect>
-                <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="407" y="985" width="113" height="27"></rect>
-                <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="407" y="1150" width="113" height="27"></rect>
-                <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="407" y="1314" width="113" height="27"></rect>
-                <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="406" y="55" width="78" height="27"></rect>
-                <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="532" y="777" width="113" height="27"></rect>
-                <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="406" y="809" width="78" height="27"></rect>
-                <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="532" y="881" width="113" height="27"></rect>
-                <rect id="Rectangle-2" fill="#EEEEEE" style="mix-blend-mode: multiply;" x="406" y="913" width="78" height="27"></rect>
-                <text id="Chen,-C.S.-(2016)-3D" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
-                    <tspan x="335" y="39">Chen, C.S. (2016) 3D </tspan>
-                    <tspan x="534" y="39">Biomimetic</tspan>
-                    <tspan x="642.02" y="39"> Cultures: The Next Platform </tspan>
-                    <tspan x="335" y="71">for Cell </tspan>
-                    <tspan x="409.4" y="71">Biology</tspan>
-                    <tspan x="480.84" y="71"> Trends Cell Biol. 1278:1-3</tspan>
-                </text>
-                <text id="Chen,-C.S.-(2016)-3D" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
-                    <tspan x="335" y="793">Chen, C.S. (2016) 3D </tspan>
-                    <tspan x="534" y="793">Biomimetic</tspan>
-                    <tspan x="642.02" y="793"> Cultures: The Next Platform </tspan>
-                    <tspan x="335" y="825">for Cell </tspan>
-                    <tspan x="409.4" y="825">Biology</tspan>
-                    <tspan x="480.84" y="825"> Trends Cell Biol. 1278:1-3</tspan>
-                </text>
-                <text id="Chen,-C.S.-(2016)-3D" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
-                    <tspan x="335" y="897">Chen, C.S. (2016) 3D Biomimetic Cultures: The Next Platform </tspan>
-                    <tspan x="335" y="929">for Cell Biology Trends Cell Biol. 1278:1-3</tspan>
-                </text>
-                <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
-                    <tspan x="335" y="137">Cursus Biomimetic volutpat aenean vel tristique venenatis ut vitae leo </tspan>
-                    <tspan x="335" y="169">sapien lorem ipsum</tspan>
-                </text>
-                <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
-                    <tspan x="335" y="301">Cursus Biomimetic volutpat aenean vel tristique venenatis ut </tspan>
-                    <tspan x="335" y="333">vitae leo sapien lorem ipsum</tspan>
-                </text>
-                <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
-                    <tspan x="335" y="1000">Cursus Biomimetic volutpat aenean vel tristique venenatis ut </tspan>
-                    <tspan x="335" y="1032">vitae leo sapien lorem ipsum</tspan>
-                </text>
-                <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
-                    <tspan x="335" y="202">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
-                    <tspan x="335" y="229">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
-                </text>
-                <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
-                    <tspan x="335" y="366">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
-                    <tspan x="335" y="393">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
-                </text>
-                <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
-                    <tspan x="335" y="1066">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
-                    <tspan x="335" y="1093">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
-                </text>
-                <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
-                    <tspan x="335" y="465">Cursus Biomimetic volutpat aenean vel tristique venenatis ut </tspan>
-                    <tspan x="335" y="497">vitae leo sapien lorem ipsum</tspan>
-                </text>
-                <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
-                    <tspan x="335" y="1165">Cursus Biomimetic volutpat aenean vel tristique venenatis ut </tspan>
-                    <tspan x="335" y="1197">vitae leo sapien lorem ipsum</tspan>
-                </text>
-                <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
-                    <tspan x="335" y="530">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
-                    <tspan x="335" y="557">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
-                </text>
-                <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
-                    <tspan x="335" y="1230">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
-                    <tspan x="335" y="1257">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
-                </text>
-                <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
-                    <tspan x="335" y="629">Cursus Biomimetic volutpat aenean vel tristique venenatis ut </tspan>
-                    <tspan x="335" y="661">vitae leo sapien lorem ipsum</tspan>
-                </text>
-                <text id="Cursus-Biomimetic-vo" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="32" fill="#4990E2">
-                    <tspan x="335" y="1329">Cursus Biomimetic volutpat aenean vel tristique venenatis ut </tspan>
-                    <tspan x="335" y="1361">vitae leo sapien lorem ipsum</tspan>
-                </text>
-                <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
-                    <tspan x="335" y="694">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
-                    <tspan x="335" y="721">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
-                </text>
-                <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="27" fill="#000000">
-                    <tspan x="335" y="1394">Lorem ipsum dolor sit amet, biology adipiscing elit. Aenean commodo ligula eget. Aenean </tspan>
-                    <tspan x="335" y="1421">massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</tspan>
-                </text>
-                <path d="M0,591 L1025,591" id="Line" stroke="#717171" stroke-linecap="square"></path>
-                <path d="M0,1291 L1025,1291" id="Line" stroke="#717171" stroke-linecap="square"></path>
-                <polygon id="Triangle" fill="#4990E2" points="1021 1501 1005 1488 1005 1514"></polygon>
-                <text id="Page-2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" letter-spacing="2.57142854" fill="#4990E2">
-                    <tspan x="882" y="1509">Page 2</tspan>
-                </text>
-            </g>
+            <g id="Group-4" transform="translate(145.000000, 497.000000)"></g>
             <g id="Footer" transform="translate(0.000000, 2090.000000)">
                 <g>
                     <rect id="Rectangle" fill="#000000" x="0" y="0" width="1280" height="203"></rect>
@@ -282,36 +325,6 @@
             <text id="Filter-by:" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="14" font-weight="bold" line-spacing="25" letter-spacing="2" fill="#000000">
                 <tspan x="150" y="401">Filter by:   </tspan>
             </text>
-            <g id="Count" transform="translate(407.000000, 516.000000)">
-                <g id="Group-34">
-                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
-                    <text id="CHAR" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.75" fill="#000000">
-                        <tspan x="13.49" y="49">CHA</tspan>
-                        <tspan x="36.66" y="49">R</tspan>
-                    </text>
-                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
-                        <tspan x="17.5" y="34">124</tspan>
-                    </text>
-                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
-                        <tspan x="14.6372727" y="15">TITLE</tspan>
-                    </text>
-                </g>
-            </g>
-            <g id="Count" transform="translate(407.000000, 685.000000)">
-                <g id="Group-34">
-                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
-                    <text id="CHAR" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.75" fill="#000000">
-                        <tspan x="13.49" y="49">CHA</tspan>
-                        <tspan x="36.66" y="49">R</tspan>
-                    </text>
-                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
-                        <tspan x="17.5" y="34">176</tspan>
-                    </text>
-                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
-                        <tspan x="10.9127273" y="15">DETAIL</tspan>
-                    </text>
-                </g>
-            </g>
         </g>
     </g>
 </svg>

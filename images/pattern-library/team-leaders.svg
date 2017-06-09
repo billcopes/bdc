@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="279px" viewBox="0 0 1280 279" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>team-leaders</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="70"></rect>
+        <rect id="path-2" x="0" y="0" width="90" height="70"></rect>
+        <rect id="path-3" x="0" y="0" width="90" height="70"></rect>
+    </defs>
+    <g id="Pattern-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="team-leaders">
+            <rect id="Rectangle-7" fill="#F9F9F9" transform="translate(640.000000, 139.057750) scale(1, -1) translate(-640.000000, -139.057750) " x="0" y="-2.27373675e-13" width="1280" height="278.1155"></rect>
+            <g id="Group-8" transform="translate(126.000000, 119.000000)">
+                <g id="Group-4" transform="translate(0.000000, 4.000000)">
+                    <g id="Group-Copy">
+                        <g id="Rectangle-2">
+                            <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="89" height="69"></rect>
+                        </g>
+                        <path d="M0.0895669291,0.0974930362 L90.9104331,69.902507" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                        <path d="M0.0895669291,0.0974930362 L90.9104331,69.902507" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(45.500000, 35.000000) scale(-1, 1) translate(-45.500000, -35.000000) "></path>
+                    </g>
+                </g>
+                <text id="Christopher-S.-Chen" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34" fill="#4990E2">
+                    <tspan x="111.18" y="20">Christopher S. Chen</tspan>
+                </text>
+                <text id="Founding-Director:-D" font-family="HelveticaNeue, Helvetica Neue" font-size="13" font-weight="normal" line-spacing="20" fill="#000000">
+                    <tspan x="111" y="51">Founding Director: Design of </tspan>
+                    <tspan x="111" y="71">Tissue Structure, Assembly, </tspan>
+                    <tspan x="111" y="91">and Function</tspan>
+                </text>
+            </g>
+            <g id="count-with-letter" transform="translate(147.000000, 163.000000)">
+                <g id="Group-3">
+                    <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                    <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                        <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                        <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                            <tspan x="12.925" y="48">CHAR</tspan>
+                        </text>
+                        <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                            <tspan x="17.5" y="34">130</tspan>
+                        </text>
+                        <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                            <tspan x="14.6372727" y="15">TITLE</tspan>
+                        </text>
+                    </g>
+                    <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.128" y="13">B</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-8" transform="translate(803.000000, 119.000000)">
+                <g id="Group-4" transform="translate(0.000000, 4.000000)">
+                    <g id="Group-Copy">
+                        <g id="Rectangle-2">
+                            <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="89" height="69"></rect>
+                        </g>
+                        <path d="M0.0895669291,0.0974930362 L90.9104331,69.902507" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                        <path d="M0.0895669291,0.0974930362 L90.9104331,69.902507" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(45.500000, 35.000000) scale(-1, 1) translate(-45.500000, -35.000000) "></path>
+                    </g>
+                </g>
+                <text id="Jessica-Tytell" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34" fill="#4990E2">
+                    <tspan x="111" y="20">Jessica Tytell</tspan>
+                </text>
+                <text id="Executive-Director-f" font-family="HelveticaNeue, Helvetica Neue" font-size="13" font-weight="normal" line-spacing="20" fill="#000000">
+                    <tspan x="111" y="51">Executive Director for the </tspan>
+                    <tspan x="111" y="71">Biological Design Center at </tspan>
+                    <tspan x="111" y="91">Boston University</tspan>
+                </text>
+            </g>
+            <g id="Group-8" transform="translate(476.000000, 119.000000)">
+                <g id="Group-4" transform="translate(0.000000, 4.000000)">
+                    <g id="Group-Copy">
+                        <g id="Rectangle-2">
+                            <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="89" height="69"></rect>
+                        </g>
+                        <path d="M0.0895669291,0.0974930362 L90.9104331,69.902507" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                        <path d="M0.0895669291,0.0974930362 L90.9104331,69.902507" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(45.500000, 35.000000) scale(-1, 1) translate(-45.500000, -35.000000) "></path>
+                    </g>
+                </g>
+                <text id="Mo-Khalil" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34" fill="#4990E2">
+                    <tspan x="111" y="20">Mo Khalil</tspan>
+                </text>
+                <text id="Associate-Director," font-family="HelveticaNeue, Helvetica Neue" font-size="13" font-weight="normal" line-spacing="20" fill="#000000">
+                    <tspan x="111" y="51">Associate Director, </tspan>
+                    <tspan x="111" y="71">Biological Design Center, </tspan>
+                    <tspan x="111" y="91">Boston University</tspan>
+                </text>
+            </g>
+            <text id="Team-Leaders" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" fill="#000000">
+                <tspan x="131" y="76">Team Leaders</tspan>
+            </text>
+            <g id="count-with-letter" transform="translate(30.000000, 45.000000)">
+                <g id="Group-3">
+                    <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
+                    <g id="Group-34" transform="translate(18.000000, 0.000000)">
+                        <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                        <text id="CHAR" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                            <tspan x="12.925" y="48">CHAR</tspan>
+                        </text>
+                        <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                            <tspan x="21" y="34">40</tspan>
+                        </text>
+                        <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                            <tspan x="7.39772728" y="15">HEADER</tspan>
+                        </text>
+                    </g>
+                    <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="5.2325" y="13">A</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

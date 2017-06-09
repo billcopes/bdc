@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1280px" height="367px" viewBox="0 0 1280 367" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1283px" height="742px" viewBox="0 0 1283 742" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
-    <title>quote</title>
+    <title>featured-news-story</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Pattern-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="quote">
-            <g id="Group-3" fill="#4A4A4A">
-                <rect id="Rectangle" x="0" y="0" width="1280" height="367"></rect>
-            </g>
-            <text id="Quote-from-an-indust" font-family="HelveticaNeue-Italic, Helvetica Neue" font-size="34" font-style="italic" font-weight="normal" line-spacing="45" fill="#FFFFFF">
-                <tspan x="243.982" y="106">Quote from an industry partner lorem ipsum dolor sit </tspan>
-                <tspan x="319.819" y="151">amet, consectetuer adipiscing elit. Aenean </tspan>
-                <tspan x="260.982" y="196">commodo ligula eget consecteteur sit amet lorem.</tspan>
+        <g id="featured-news-story">
+            <rect id="Top-Gray" fill="#4A4A4A" x="2" y="0" width="1280" height="741"></rect>
+            <path d="M1282.5,2.01785714 L0.5,740.982143" id="Line" stroke="#FFFFFF" opacity="0.229999989" stroke-linecap="square"></path>
+            <path d="M0.5,2.12899092 L1282.5,740.982296" id="Line" stroke="#FFFFFF" opacity="0.229999989" stroke-linecap="square"></path>
+            <text id="Featured-news-item-o" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="43" font-weight="bold" line-spacing="75" letter-spacing="0.716667056" fill="#4990E2">
+                <tspan x="130" y="524">Featured news item or event ipsum dolor</tspan>
+                <tspan x="130" y="599">sit amet consecteteur adipsiging</tspan>
             </text>
-            <text id="Scott-Guthrie,-Execu" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#FFFFFF">
-                <tspan x="416.368" y="276">Scott Guthrie, Executive Vice President, Lorem Ipsum Group</tspan>
+            <text id="OCT-15,-2017" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="15" font-weight="bold" letter-spacing="0.250000179" fill="#FFFFFF">
+                <tspan x="130" y="459">OCT 15, 2017</tspan>
             </text>
-            <g id="count-with-letter" transform="translate(143.000000, 99.000000)">
+            <text id="By-Lorem-Ipsumdolors" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" letter-spacing="0.250000179" fill="#FFFFFF">
+                <tspan x="249" y="459">By Lorem Ipsumdolorsit</tspan>
+            </text>
+            <g id="count-with-letter" transform="translate(41.000000, 494.000000)">
                 <g id="Group-3">
                     <rect id="Rectangle-7" fill="#000000" x="0" y="0" width="20" height="18"></rect>
                     <g id="Group-34" transform="translate(18.000000, 0.000000)">
@@ -26,10 +28,10 @@
                             <tspan x="12.925" y="48">CHAR</tspan>
                         </text>
                         <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
-                            <tspan x="17.5" y="34">300</tspan>
+                            <tspan x="17.5" y="34">120</tspan>
                         </text>
                         <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
-                            <tspan x="10.6522727" y="15">QUOTE</tspan>
+                            <tspan x="14.6372727" y="15">TITLE</tspan>
                         </text>
                     </g>
                     <text id="A" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="11" font-weight="bold" fill="#FFFFFF">
