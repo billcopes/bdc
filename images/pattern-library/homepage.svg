@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="837px" viewBox="0 0 1280 837" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>homepage</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1280" height="837"></rect>
+    </defs>
+    <g id="Pattern-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="homepage">
+            <g id="Image">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <g opacity="0.5" mask="url(#mask-2)" id="Group-3">
+                    <g transform="translate(0.000000, -32.000000)">
+                        <g transform="translate(-3.000000, 0.000000)">
+                            <rect id="Rectangle" fill="#E9E9E9" x="3" y="0" width="1280" height="868"></rect>
+                            <g id="Group-2" opacity="0.200000003" transform="translate(0.000000, 0.678125)" stroke="#717171" stroke-width="2" stroke-linecap="square">
+                                <path d="M0.5,0.3390625 L1285.5,866.304688" id="Line"></path>
+                                <path d="M0.5,0.3390625 L1285.5,866.304688" id="Line" transform="translate(643.000000, 433.321875) scale(-1, 1) translate(-643.000000, -433.321875) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <text id="Intro" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="43" font-weight="bold" line-spacing="75" letter-spacing="0.720000029">
+                <tspan x="124" y="313" fill="#000000">Mission/impact amet, consectetur dolor sit </tspan>
+                <tspan x="124" y="388" fill="#4990E2">Research lorem adipiscing </tspan>
+                <tspan x="699.914001" y="388" fill="#000000">elit lorem ipsum. </tspan>
+                <tspan x="124" y="463" fill="#000000">Molecular dictum ultricies tortor, eget faucibus </tspan>
+                <tspan x="124" y="538" fill="#000000">tissue and organ arcu pulvinar vitae.</tspan>
+            </text>
+            <g id="Count" transform="translate(44.000000, 281.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                        <tspan x="13.49" y="49">CHA</tspan>
+                        <tspan x="36.66" y="49">R</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                        <tspan x="17.5" y="34">196</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="12.6922727" y="15">INTRO</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#FFFFFF" x="162" y="772" width="958" height="64"></rect>
+            <text id="Cellular" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="36" fill="#4990E2">
+                <tspan x="489.55" y="807">Cellular</tspan>
+            </text>
+            <text id="Microbic" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="36" fill="#4990E2">
+                <tspan x="297.18" y="807">Microbic</tspan>
+            </text>
+            <text id="Molecular" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="36" fill="#4990E2">
+                <tspan x="865.62" y="807">Molecular</tspan>
+            </text>
+            <path d="M125,415 L684,415" id="Underline" stroke="#4990E2" stroke-width="3" stroke-linecap="square"></path>
+            <rect id="Rectangle" fill="#FFFFFF" transform="translate(714.000000, 804.000000) scale(-1, 1) translate(-714.000000, -804.000000) " x="626" y="772" width="176" height="64"></rect>
+            <g id="Count" transform="translate(212.000000, 780.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                        <tspan x="13.49" y="49">CHA</tspan>
+                        <tspan x="36.66" y="49">R</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                        <tspan x="21" y="34">40</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="16.8868182" y="15">LINK</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Tissue" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="36" fill="#4990E2">
+                <tspan x="683.4" y="807">Tissue</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

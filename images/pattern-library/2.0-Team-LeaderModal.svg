@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="1133px" viewBox="0 0 1280 1133" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>2.0-Team-LeaderModal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="70"></rect>
+        <rect id="path-2" x="0" y="0" width="90" height="70"></rect>
+        <rect id="path-3" x="0" y="0" width="90" height="70"></rect>
+        <polygon id="path-4" points="4.36704927e-16 0 33 0 33 18 0 18 0 0"></polygon>
+        <polygon id="path-6" points="0 90 90 90 90 0 0 0"></polygon>
+        <rect id="path-8" x="0" y="0" width="1067" height="387"></rect>
+        <rect id="path-9" x="1" y="0" width="233" height="182"></rect>
+    </defs>
+    <g id="2.0-Team" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.0-Team-LeaderModal">
+            <rect id="Rectangle-7" fill="#4A4A4A" x="0" y="132" width="1280" height="389"></rect>
+            <rect id="Rectangle-7" fill="#F9F9F9" transform="translate(640.000000, 664.000000) scale(1, -1) translate(-640.000000, -664.000000) " x="0" y="525" width="1280" height="278"></rect>
+            <g id="Group-8" transform="translate(126.000000, 644.000000)">
+                <g id="Group-4" transform="translate(0.000000, 4.000000)">
+                    <g id="Group-Copy">
+                        <g id="Rectangle-2">
+                            <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="89" height="69"></rect>
+                        </g>
+                        <path d="M0.0895669291,0.0974930362 L90.9104331,69.902507" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                        <path d="M0.0895669291,0.0974930362 L90.9104331,69.902507" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(45.500000, 35.000000) scale(-1, 1) translate(-45.500000, -35.000000) "></path>
+                    </g>
+                </g>
+                <text id="Christopher-S.-Chen" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34" fill="#4990E2">
+                    <tspan x="111.18" y="20">Christopher S. Chen</tspan>
+                </text>
+                <text id="Founding-Director:-D" font-family="HelveticaNeue, Helvetica Neue" font-size="13" font-weight="normal" line-spacing="20" fill="#000000">
+                    <tspan x="111" y="51">Founding Director: Design of </tspan>
+                    <tspan x="111" y="71">Tissue Structure, Assembly, </tspan>
+                    <tspan x="111" y="91">and Function</tspan>
+                </text>
+            </g>
+            <g id="Group-8" transform="translate(803.000000, 644.000000)">
+                <g id="Group-4" transform="translate(0.000000, 4.000000)">
+                    <g id="Group-Copy">
+                        <g id="Rectangle-2">
+                            <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="89" height="69"></rect>
+                        </g>
+                        <path d="M0.0895669291,0.0974930362 L90.9104331,69.902507" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                        <path d="M0.0895669291,0.0974930362 L90.9104331,69.902507" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(45.500000, 35.000000) scale(-1, 1) translate(-45.500000, -35.000000) "></path>
+                    </g>
+                </g>
+                <text id="Jessica-Tytell" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34" fill="#4990E2">
+                    <tspan x="111" y="20">Jessica Tytell</tspan>
+                </text>
+                <text id="Executive-Director-f" font-family="HelveticaNeue, Helvetica Neue" font-size="13" font-weight="normal" line-spacing="20" fill="#000000">
+                    <tspan x="111" y="51">Executive Director for the </tspan>
+                    <tspan x="111" y="71">Biological Design Center at </tspan>
+                    <tspan x="111" y="91">Boston University</tspan>
+                </text>
+            </g>
+            <g id="Group-8" transform="translate(476.000000, 644.000000)">
+                <g id="Group-4" transform="translate(0.000000, 4.000000)">
+                    <g id="Group-Copy">
+                        <g id="Rectangle-2">
+                            <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="89" height="69"></rect>
+                        </g>
+                        <path d="M0.0895669291,0.0974930362 L90.9104331,69.902507" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                        <path d="M0.0895669291,0.0974930362 L90.9104331,69.902507" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(45.500000, 35.000000) scale(-1, 1) translate(-45.500000, -35.000000) "></path>
+                    </g>
+                </g>
+                <text id="Mo-Khalil" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34" fill="#4990E2">
+                    <tspan x="111" y="20">Mo Khalil</tspan>
+                </text>
+                <text id="Associate-Director," font-family="HelveticaNeue, Helvetica Neue" font-size="13" font-weight="normal" line-spacing="20" fill="#000000">
+                    <tspan x="111" y="51">Associate Director, </tspan>
+                    <tspan x="111" y="71">Biological Design Center, </tspan>
+                    <tspan x="111" y="91">Boston University</tspan>
+                </text>
+            </g>
+            <text id="Team-Leaders" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" fill="#000000">
+                <tspan x="131" y="601">Team Leaders</tspan>
+            </text>
+            <text id="Statement-about-the" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="43" font-weight="bold" line-spacing="75" letter-spacing="0.7166671" fill="#FFFFFF">
+                <tspan x="131" y="254">Statement about the team at BDC cras </tspan>
+                <tspan x="131" y="329">pharetra enim sed purus dui sed pulvinar </tspan>
+                <tspan x="131" y="404">dictum ante mauris laoreet dolor.</tspan>
+            </text>
+            <path d="M127,898 L150,898" id="Line-Copy-10" stroke="#4990E2" stroke-linecap="square"></path>
+            <path d="M684,898 L707,898" id="Line-Copy-11" stroke="#4990E2" stroke-linecap="square"></path>
+            <text id="All-Molecular-Cellul" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="25" letter-spacing="0.2666668" fill="#4990E2">
+                <tspan x="128" y="889">All</tspan>
+                <tspan x="148.016" y="889" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal">    Molecular    Cellular    Tissue    Microbic</tspan>
+            </text>
+            <text id="All-PIs-+-Faculty-Po" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="25" letter-spacing="0.2666668" fill="#4990E2">
+                <tspan x="685" y="889">All</tspan>
+                <tspan x="705.016" y="889" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal">    PIs + Faculty    Postdoctorals    Graduate students    Staff</tspan>
+            </text>
+            <text id="Focus-areas:" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="12" font-weight="bold" line-spacing="25" letter-spacing="1.71428573" fill="#000000">
+                <tspan x="128" y="858">Focus areas:   </tspan>
+            </text>
+            <text id="Filter-by:" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="12" font-weight="bold" line-spacing="25" letter-spacing="1.71428573" fill="#000000">
+                <tspan x="685" y="858">Filter by:   </tspan>
+            </text>
+            <polygon id="Rectangle" fill="#4A4A4A" points="0 0 1280 0 1280 133 0 133"></polygon>
+            <g id="Group-11" transform="translate(128.000000, 968.000000)">
+                <circle id="Oval-3" stroke="#979797" cx="163.5" cy="163.5" r="163.5"></circle>
+                <text id="Christopher-S.-Chen" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34" fill="#4990E2">
+                    <tspan x="47" y="104">Christopher S. Chen</tspan>
+                </text>
+                <text id="Abstracted-overview" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="25" fill="#000000">
+                    <tspan x="47" y="134">Abstracted overview of what </tspan>
+                    <tspan x="47" y="159">they’re currently working on lorem </tspan>
+                    <tspan x="47" y="184">ipsum dolor lorem ipsum dolor</tspan>
+                </text>
+                <text id="PI" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="34" fill="#000000">
+                    <tspan x="156.304" y="22">PI</tspan>
+                </text>
+            </g>
+            <g id="Group-10" transform="translate(477.000000, 968.000000)">
+                <path d="M163,324 C253.022414,324 326,262.190625 326,185.944896 L326,3.37230244e-15 L0,0 C0,0 1.13686838e-13,180.100766 0,185.944896 C0,262.190625 72.9775858,324 163,324 Z" id="Oval-2-Copy" stroke="#979797" transform="translate(163.000000, 162.000000) rotate(-360.000000) translate(-163.000000, -162.000000) "></path>
+                <text id="PI" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="34" fill="#000000">
+                    <tspan x="155.304" y="22">PI</tspan>
+                </text>
+                <text id="Douglas-Densmore" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34" fill="#4990E2">
+                    <tspan x="30" y="104">Douglas Densmore</tspan>
+                </text>
+                <text id="Abstracted-overview" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="25" fill="#000000">
+                    <tspan x="30" y="134">Abstracted overview of what they’re </tspan>
+                    <tspan x="30" y="159">currently working on lorem ipsum </tspan>
+                    <tspan x="30" y="184">dolor lorem ipsum dolor</tspan>
+                </text>
+            </g>
+            <g id="Group-9" transform="translate(826.000000, 968.000000)">
+                <text id="PI" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" line-spacing="34" fill="#000000">
+                    <tspan x="156.304" y="22">PI</tspan>
+                </text>
+                <rect id="Rectangle-7" stroke="#9B9B9B" x="0.5" y="0.5" width="326" height="326"></rect>
+                <text id="Ahmad-'Mo'-Khalil" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34" fill="#4990E2">
+                    <tspan x="34" y="104">Ahmad 'Mo' Khalil</tspan>
+                </text>
+                <text id="Abstracted-overview" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="25" fill="#000000">
+                    <tspan x="34" y="134">Abstracted overview of what they’re </tspan>
+                    <tspan x="34" y="159">currently working on lorem ipsum </tspan>
+                    <tspan x="34" y="184">dolor lorem ipsum dolor</tspan>
+                </text>
+            </g>
+            <g id="Navigation" transform="translate(124.000000, 29.000000)">
+                <g id="logo-mark" transform="translate(938.000000, 32.000000)">
+                    <path d="M37.3220177,19.4767685 C39.7744984,21.5717874 41,24.3387749 41,27.7806614 C41,31.2953118 39.7922308,34.0447189 37.3786626,36.0274173 C34.965587,38.0086508 31.6072793,39 27.3062023,39 L4,39 L4,22.9928841 L23.3646977,22.9928841 C27.5899197,22.9928841 30.9285248,21.945863 33.3805131,19.8527975 C34.0449832,19.2848472 34.6163585,18.6661086 35.1005498,18 C35.9054009,18.4160737 36.6506517,18.9034464 37.3220177,19.4767685 Z" id="Fill-1" fill="#FFFFFF"></path>
+                    <g id="Group-5" transform="translate(3.000000, 0.000000)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="Clip-4"></g>
+                        <path d="M31.045548,18 C32.3465493,16.1733363 33,13.9845235 33,11.4290847 C33,7.84888348 31.7938942,5.04770064 29.3851243,3.02802344 C26.9758627,1.01033606 23.6235473,0 19.3306365,0 L0,0 L0,16.304665 L23.2651082,16.30566 C26.3268371,16.30566 28.9165475,16.8757462 31.045548,18" id="Fill-3" fill="#FFFFFF" mask="url(#mask-5)"></path>
+                    </g>
+                    <path d="M84.6492696,5.37188862 C81.0812918,1.79079371 76.3388238,0 70.4208764,0 L64,0 L64,39 L70.4208764,39 C76.3388238,39 81.0812918,37.2101913 84.6492696,33.6295889 C88.2167529,30.0489866 90,25.3390415 90,19.5002463 C90,13.661451 88.2167529,8.952491 84.6492696,5.37188862" id="Fill-6" fill="#FFFFFF"></path>
+                    <mask id="mask-7" fill="white">
+                        <use xlink:href="#path-6"></use>
+                    </mask>
+                    <g id="Clip-9"></g>
+                    <polygon id="Fill-8" fill="#FFFFFF" mask="url(#mask-7)" points="51 39 57 39 57 0 51 0"></polygon>
+                    <polygon id="Fill-10" fill="#E6E7E8" mask="url(#mask-7)" points="63.5957143 0 61.1352381 0 58 0 58 39 61.1352381 39 63.5957143 39 64 39 64 0"></polygon>
+                    <path d="M20,50 C9.87387652,50 1.48556315,57.3739503 0,67 L20,67 L20,50 Z" id="Fill-11" fill="#E6E7E8" mask="url(#mask-7)"></path>
+                    <path d="M20,67 L0.231420963,67 C0.0793996611,67.9784938 0,68.9798429 0,69.9997619 C0,71.019681 0.0793996611,72.0215062 0.231420963,73 L20,73 L20,67 Z" id="Fill-12" fill="#FFFFFF" mask="url(#mask-7)"></path>
+                    <path d="M20,90 C9.87387652,90 1.48556315,82.6260497 0,73 L20,73 L20,90 Z" id="Fill-13" fill="#E6E7E8" mask="url(#mask-7)"></path>
+                    <path d="M20,90 C30.1256337,90 38.5144369,82.6260497 40,73 L20,73 L20,90 Z" id="Fill-14" fill="#FFFFFF" mask="url(#mask-7)"></path>
+                    <path d="M40,67 C38.5144369,57.3739503 30.1256337,50 20,50 L20,67 L40,67 Z" id="Fill-15" fill="#FFFFFF" mask="url(#mask-7)"></path>
+                    <path d="M33.2855242,20.6979388 C33.9478461,20.1012983 34.5173741,19.4502311 35,18.7498716 C32.8740893,17.5894521 30.2886284,17.0010269 27.2308521,17.0010269 L4,17 L4,24 L23.3020906,24 C27.5136522,24 30.8409724,22.8986283 33.2855242,20.6979388" id="Fill-16" fill="#E6E7E8" mask="url(#mask-7)"></path>
+                </g>
+                <g id="search" transform="translate(828.000000, 3.000000)"></g>
+                <text id="Research" font-family="Helvetica-Bold, Helvetica" font-size="16" font-weight="bold" line-spacing="33" fill="#4990E2">
+                    <tspan x="265" y="65">Research </tspan>
+                </text>
+                <text id="Tools-+-Tech" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="33" letter-spacing="0.5" fill="#4990E2">
+                    <tspan x="265" y="14">Tools + Tec</tspan>
+                    <tspan x="340.677734" y="14">h</tspan>
+                </text>
+                <text id="Contact-us" font-family="Helvetica" font-size="14" font-weight="normal" line-spacing="33" letter-spacing="0.5" fill="#4990E2">
+                    <tspan x="370" y="14">Contact u</tspan>
+                    <tspan x="434.423828" y="14">s</tspan>
+                </text>
+                <text id="Team" font-family="Helvetica-Bold, Helvetica" font-size="16" font-weight="bold" line-spacing="33" fill="#4990E2">
+                    <tspan x="394" y="65">Team</tspan>
+                </text>
+                <text id="Engage" font-family="Helvetica-Bold, Helvetica" font-size="16" font-weight="bold" line-spacing="33" fill="#4990E2">
+                    <tspan x="489" y="65">Engage</tspan>
+                </text>
+                <text id="News-+-Events" font-family="Helvetica-Bold, Helvetica" font-size="16" font-weight="bold" line-spacing="33" fill="#4990E2">
+                    <tspan x="599" y="65">News + Events</tspan>
+                </text>
+                <path d="M256.5,33.5 L859.513267,33.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M840.833915,15.8257848 C840.072784,16.5869153 839.068857,17 838.00011,17 C836.931143,17 835.927216,16.5869153 835.166085,15.8257848 C834.412645,15.0727842 834,14.0688566 834,13.0001099 C834,11.9311434 834.412645,10.9272158 835.173995,10.1658656 C835.927216,9.41286495 836.931143,9 838.00011,9 C839.068857,9 840.072784,9.41286495 840.833915,10.1658656 C841.586915,10.9272158 842,11.9311434 842,13.0001099 C842,14.0688566 841.586915,15.0727842 840.833915,15.8257848 M843.692915,13.3425722 C843.692915,11.9106341 843.136568,10.5688304 842.122223,9.56269959 C841.115648,8.55634681 839.774066,8 838.342572,8 C836.918848,8 835.577045,8.55634681 834.5627,9.56269959 C833.556347,10.5688304 833,11.9106341 833,13.3425722 C833,14.7740663 833.556347,16.115648 834.5627,17.1222228 C835.577045,18.1281316 836.918848,18.6844784 838.342572,18.6844784 C839.553392,18.6844784 840.698721,18.2837577 841.631146,17.5555783 L845.075345,21 L846,20.0753454 L842.555578,16.6313677 C843.283758,15.6987209 843.692915,14.5533924 843.692915,13.3425722" id="Fill-1" fill="#4990E2"></path>
+                <g id="logo-type" transform="translate(0.000000, 5.000000)" fill="#FFFFFF">
+                    <polygon id="Fill-1" points="57.0025149 49 57 66 60.8201023 66 60.8201023 52.2213647 69 52.2213647 69 49"></polygon>
+                    <path d="M41.9070439,27.1896604 C41.24069,27.1896604 40.682448,27.3530043 40.2328233,27.679692 C39.7831986,28.0058848 39.5583863,28.4657225 39.5583863,29.0577203 C39.5583863,29.8630551 40.054489,30.4100096 41.0466946,30.6985838 L44.7907044,31.7924928 C46.1860566,32.2023374 47.2368649,32.7874055 47.9421189,33.546707 C48.647373,34.3065035 49,35.3316101 49,36.6230166 C49,38.3391173 48.3568851,39.6646776 47.0701501,40.5987075 C45.7834151,41.5332325 44.1703233,42 42.2328955,42 C40.3257794,42 38.6975318,41.5446171 37.3491628,40.6328613 C36.0002887,39.7216004 35.2172344,38.4455383 35,36.8051698 L39.0001443,36.0072597 C39.3719688,37.8302764 40.5197748,38.7420322 42.4420468,38.7420322 C43.2640012,38.7420322 43.9030745,38.5707686 44.3602771,38.2292314 C44.817985,37.8871992 45.0468389,37.4204317 45.0468389,36.827939 C45.0468389,36.3874055 44.9109411,36.027059 44.6396507,35.7454145 C44.3683603,35.4647601 43.9303551,35.2405335 43.3256351,35.0737247 L39.9302107,34.1619689 C38.5818418,33.7823182 37.5002165,33.2234841 36.6863453,32.4874467 C35.872474,31.7504194 35.4652858,30.6985838 35.4652858,29.3314451 C35.4652858,27.6757322 36.0583863,26.373436 37.2445872,25.4240616 C38.4302829,24.4746872 39.9923499,24 41.9307881,24 L41.9070439,27.1896604 Z" id="Fill-2"></path>
+                    <polygon id="Fill-4" points="22.8442792 37.7790292 22.8442792 34.1099994 26.1986608 34.1099994 26.1986608 30.8895146 22.8442792 30.8895146 22.8442792 27.2428392 31.8830926 27.2428392 31.8830926 24 19 24 19 41 32 41 32 37.7790292"></polygon>
+                    <path d="M2,37.7790292 L6.07796698,37.7790292 C7.66526621,37.7790292 8.9369423,37.2945229 9.89347858,36.3250243 C10.8504982,35.3560117 11.3285247,34.0808416 11.3285247,32.5 C11.3285247,30.9191584 10.8504982,29.6439883 9.89347858,28.6749757 C8.9369423,27.7054771 7.66526621,27.2204848 6.07796698,27.2204848 L2,27.2204848 L2,24 L6.01126562,24 C8.71073766,24 10.8838489,24.7785147 12.5296327,26.3370019 C14.1763831,27.8954891 15,29.9496598 15,32.5 C15,35.0498542 14.1763831,37.1040249 12.5296327,38.6620262 C10.8838489,40.2205134 8.71073766,41 6.01126562,41 L2,41" id="Fill-6"></path>
+                    <polygon id="Fill-8" points="52 41 56 41 56 24 52 24"></polygon>
+                    <polygon id="Fill-10" points="97 41 94.7112512 41 84.6670187 30.6207764 84.6670187 41 81 41 81 24 83.3114383 24 93.3556709 34.6251215 93.3556709 24 97 24"></polygon>
+                    <path d="M69.0915423,27.4358693 C67.5950249,27.4358693 66.339801,27.9707773 65.3243781,29.0400989 C64.3089552,30.1094205 63.800995,31.4333425 63.800995,33.0108761 C63.800995,34.5889041 64.320398,35.9123318 65.3587065,36.9821478 C66.3965174,38.0519637 67.6870647,38.5868717 69.2288557,38.5868717 C70.4960199,38.5868717 71.5646766,38.2487229 72.4348259,37.5739083 C73.3054726,36.8985993 73.8930348,35.9845098 74.1985075,34.8316397 L69.0925373,34.8316397 L69.0925373,31.6459215 L77.9084577,31.6459215 C77.9696517,32.1313925 78,32.5941225 78,33.0336171 C78,35.6280692 77.1716418,37.7706674 75.5149254,39.4624004 C73.8587065,41.1541335 71.7402985,42 69.160199,42 C66.5800995,42 64.4079602,41.1353474 62.6447761,39.4055479 C60.881592,37.6762428 60,35.5445207 60,33.0108761 C60,30.4777259 60.8776119,28.3425433 62.6338308,26.6053282 C64.3890547,24.8686075 66.541791,24 69.0915423,24" id="Fill-11"></path>
+                    <polygon id="Fill-12" points="76.8442792 62.7790292 76.8442792 59.1099994 80.1986608 59.1099994 80.1986608 55.8895146 76.8442792 55.8895146 76.8442792 52.2428392 85.8825865 52.2428392 85.8825865 49 73 49 73 66 86 66 86 62.7790292"></polygon>
+                    <polygon id="Fill-13" points="52 66 49.7112512 66 39.6670187 55.6207764 39.6670187 66 36 66 36 49 38.3114383 49 48.3551881 59.6251215 48.3551881 49 52 49"></polygon>
+                    <path d="M93.7853646,66 L90,66 L90,49 L97.0663461,49 C98.9019614,49 100.36228,49.4689555 101.448298,50.4088102 C102.534316,51.348665 103.077076,52.570865 103.077076,54.0773541 C103.077076,55.0915614 102.824885,55.9896232 102.320004,56.7729975 C101.815122,57.5553999 101.096426,58.1555657 100.163417,58.5734949 L107,66 L102.365857,66 L96.1258612,59.1775485 L96.1353309,56.0236407 L96.8829341,56.0236407 C97.6629335,56.0236407 98.2709842,55.8409182 98.7065877,55.4754731 C99.1426896,55.110028 99.3604914,54.6439883 99.3604914,54.0773541 C99.3604914,53.5107198 99.1426896,53.0485678 98.7065877,52.6904122 C98.2709842,52.3327426 97.6629335,52.1534218 96.8829341,52.1534218 L93.7853646,52.1534218 L93.7853646,66 Z" id="Fill-14"></path>
+                    <polygon id="Fill-15" points="22.8442792 62.7790292 22.8442792 59.1099994 26.1986608 59.1099994 26.1986608 55.8895146 22.8442792 55.8895146 22.8442792 52.2428392 31.8830926 52.2428392 31.8830926 49 19 49 19 66 32 66 32 62.7790292"></polygon>
+                    <path d="M15,64.386481 C13.3133014,66.128827 11.2501205,67 8.80901115,67 C6.35344024,67 4.27145933,66.128827 2.56258637,64.386481 C0.854195456,62.6441351 0,60.5190603 0,58.0107673 C0,55.5029637 0.854195456,53.3734841 2.56258637,51.6237968 C4.27145933,49.8745989 6.35344024,49 8.80901115,49 C11.2501205,49 13.3133014,49.8745989 15,51.6237968 L12.6591574,54.2598292 C11.6309413,53.2457447 10.3477199,52.7391919 8.80901115,52.7391919 C7.25584086,52.7391919 5.95767587,53.2457447 4.91451618,54.2598292 C3.87183854,55.2739138 3.35074075,56.5239002 3.35074075,58.0107673 C3.35074075,59.4976345 3.87183854,60.7476209 4.91451618,61.7621948 C5.95767587,62.7757899 7.25584086,63.2823427 8.80901115,63.2823427 C10.3477199,63.2823427 11.6309413,62.7757899 12.6591574,61.7621948" id="Fill-16"></path>
+                    <polygon id="Fill-17" points="60 18 48 18 48 1 51.6530522 1 51.6530522 14.7790292 60 14.7790292"></polygon>
+                    <polygon id="Fill-18" points="19 18 23 18 23 1 19 1"></polygon>
+                    <path d="M29.613519,15 C27.871173,13.3133014 27,11.2501205 27,8.80901115 C27,6.35344024 27.871173,4.27145933 29.613519,2.56258637 C31.3558649,0.854195456 33.4809397,0 35.9892327,0 C38.4970363,0 40.6265159,0.854195456 42.3762032,2.56258637 C44.1254011,4.27145933 45,6.35344024 45,8.80901115 C45,11.2501205 44.1254011,13.3133014 42.3762032,15 L39.7396813,12.6591574 C40.7542553,11.6309413 41.2608081,10.3477199 41.2608081,8.80901115 C41.2608081,7.25632291 40.7542553,5.95767587 39.7396813,4.91499823 C38.7260862,3.87183854 37.4756104,3.35074075 35.9892327,3.35074075 C34.5023655,3.35074075 33.2518897,3.87183854 32.2378052,4.91499823 C31.2242101,5.95767587 30.7176573,7.25632291 30.7176573,8.80901115 C30.7176573,10.3477199 31.2242101,11.6309413 32.2378052,12.6591574" id="Fill-19"></path>
+                    <path d="M75.7621948,12.6591574 C76.7757899,11.6309413 77.2823427,10.3477199 77.2823427,8.8094932 C77.2823427,7.25632291 76.7757899,5.95815792 75.7621948,4.91548028 C74.7481103,3.87183854 73.4976345,3.35074075 72.0107673,3.35074075 C70.5239002,3.35074075 69.2739138,3.87183854 68.2598292,4.91548028 C67.2462342,5.95815792 66.7391919,7.25632291 66.7391919,8.8094932 C66.7391919,10.3477199 67.2462342,11.6309413 68.2598292,12.6591574 L65.6237968,15 C63.8745989,13.3133014 63,11.2501205 63,8.8094932 C63,6.35392229 63.8745989,4.27194138 65.6237968,2.56306842 C67.3734841,0.854677507 69.5029637,0 72.0107673,0 C74.5190603,0 76.6446245,0.854677507 78.386481,2.56306842 C80.128827,4.27194138 81,6.35392229 81,8.8094932 C81,11.2501205 80.128827,13.3133014 78.386481,15" id="Fill-20"></path>
+                    <polygon id="Fill-21" points="107 18 111 18 111 1 107 1"></polygon>
+                    <polygon id="Fill-22" points="142.523236 6.36829317 137.140994 18 133 18 141.235016 1 143.764984 1 152 18 147.859506 18"></polygon>
+                    <polygon id="Fill-23" points="168 18 155 18 155 1 158.866557 1 158.866557 14.7790292 168 14.7790292"></polygon>
+                    <path d="M94.0915423,4.43586927 C92.5950249,4.43586927 91.339801,4.97077726 90.3243781,6.04009887 C89.3089552,7.10942049 88.8014925,8.43383686 88.8014925,10.0108761 C88.8014925,11.5889041 89.320398,12.9123318 90.3587065,13.9821478 C91.3970149,15.0519637 92.6870647,15.5868717 94.2288557,15.5868717 C95.4960199,15.5868717 96.5651741,15.2487229 97.4353234,14.5739083 C98.3054726,13.8990937 98.8930348,12.9845098 99.1985075,11.8316397 L94.0925373,11.8316397 L94.0925373,8.64592145 L102.908458,8.64592145 C102.969652,9.13139247 103,9.59412249 103,10.0336171 C103,12.6280692 102.171642,14.7711618 100.515423,16.4624004 C98.8587065,18.1541335 96.7402985,19 94.160199,19 C91.5800995,19 89.4084577,18.1353474 87.6447761,16.4060423 C85.881592,14.6762428 85,12.5445207 85,10.0108761 C85,7.4777259 85.8776119,5.34254326 87.6338308,3.60532821 C89.3895522,1.86860753 91.541791,1 94.0915423,1" id="Fill-24"></path>
+                    <path d="M129,15.3865521 C127.313301,17.1288507 125.249638,18 122.808529,18 C120.35344,18 118.271459,17.1288507 116.562586,15.3865521 C114.854195,13.6442535 114,11.5192365 114,9.01101172 C114,6.50327633 114.854195,4.37385465 116.562586,2.62421491 C118.271459,0.874575165 120.35344,0 122.808529,0 C125.249638,0 127.313301,0.874575165 129,2.62421491 L126.659157,5.26017564 C125.630941,4.24611871 124.34772,3.73957965 122.808529,3.73957965 C121.255841,3.73957965 119.957676,4.24611871 118.914516,5.26017564 C117.871839,6.27374317 117.350259,7.524185 117.350259,9.01101172 C117.350259,10.4978384 117.871839,11.7477909 118.914516,12.7618478 C119.957676,13.7759047 121.255841,14.2824438 122.808529,14.2824438 C124.34772,14.2824438 125.630941,13.7759047 126.659157,12.7618478" id="Fill-25"></path>
+                    <path d="M8.85699482,10.7957865 C9.66478603,10.7957865 10.3024372,10.9921105 10.771445,11.3852443 C11.2399539,11.7783781 11.4744579,12.2983449 11.4744579,12.9446588 C11.4744579,13.6040934 11.2434466,14.1206586 10.7819229,14.4924106 C10.321397,14.8646485 9.67875648,15.0512535 8.85699482,15.0512535 L2,15.0512535 L2,18 L9.2466705,18 C11.005949,18 12.4039916,17.5684761 13.4427941,16.7044565 C14.4805987,15.8409227 15,14.6858188 15,13.2391447 C15,11.4163451 14.2156592,10.0916445 12.6659374,9.25386616 C13.7142199,8.42094732 14.2465937,7.26001201 14.2465937,5.76085527 C14.2465937,4.31418117 13.7276914,3.15907727 12.6893878,2.29554355 C11.6510842,1.43152388 10.2525427,1 8.49326425,1 L2,1 L2,3.94923248 L8.10358856,3.94923248 C8.92584917,3.94923248 9.56749184,4.13535146 10.0290155,4.5075894 C10.4900403,4.87934139 10.7210516,5.39590658 10.7210516,6.05582712 C10.7210516,6.70165509 10.4870466,7.22162193 10.0180388,7.61475574 C9.54952984,8.00788955 8.91137977,8.20421348 8.10358856,8.20421348 L2,8.20421348 L2,10.7957865 L8.85699482,10.7957865 Z" id="Fill-26"></path>
+                </g>
+                <path d="M839.5,25 C833.710278,25 829,20.2897216 829,14.5 C829,8.71027835 833.710278,4 839.5,4 C845.289722,4 850,8.71027835 850,14.5 C850,20.2897216 845.289722,25 839.5,25 M840,3 C833.383046,3 828,8.38304587 828,15 C828,21.6169541 833.383046,27 840,27 C846.616954,27 852,21.6169541 852,15 C852,8.38304587 846.616954,3 840,3" id="Fill-3" fill="#4990E2"></path>
+                <rect id="Rectangle-3" fill="#4990E2" x="390" y="79" width="51" height="4"></rect>
+            </g>
+            <text id="Christopher-S.-Chen" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34" fill="#4990E2">
+                <tspan x="393.18" y="524">Christopher S. Chen</tspan>
+            </text>
+            <text id="Christopher-S.-Chen" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34" fill="#4990E2">
+                <tspan x="650.18" y="524">Christopher S. Chen</tspan>
+            </text>
+            <text id="Christopher-S.-Chen" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34" fill="#4990E2">
+                <tspan x="907.18" y="524">Christopher S. Chen</tspan>
+            </text>
+            <text id="Founding-Director:-D" font-family="HelveticaNeue, Helvetica Neue" font-size="13" font-weight="normal" line-spacing="20" fill="#000000">
+                <tspan x="393" y="555">Founding Director: Design of </tspan>
+                <tspan x="393" y="575">Tissue Structure, Assembly, and </tspan>
+                <tspan x="393" y="595">Function</tspan>
+            </text>
+            <text id="Founding-Director:-D" font-family="HelveticaNeue, Helvetica Neue" font-size="13" font-weight="normal" line-spacing="20" fill="#000000">
+                <tspan x="650" y="555">Founding Director: Design of </tspan>
+                <tspan x="650" y="575">Tissue Structure, Assembly, and </tspan>
+                <tspan x="650" y="595">Function</tspan>
+            </text>
+            <text id="Founding-Director:-D" font-family="HelveticaNeue, Helvetica Neue" font-size="13" font-weight="normal" line-spacing="20" fill="#000000">
+                <tspan x="907" y="555">Founding Director: Design of </tspan>
+                <tspan x="907" y="575">Tissue Structure, Assembly, and </tspan>
+                <tspan x="907" y="595">Function</tspan>
+            </text>
+            <g id="Group-8" transform="translate(116.000000, 284.000000)"></g>
+            <rect id="Rectangle-4" fill-opacity="0.899999976" fill="#FFFFFF" x="0" y="0" width="1280" height="3338"></rect>
+            <g id="Group-12" transform="translate(116.000000, 340.000000)">
+                <g id="Rectangle-5">
+                    <use fill="#F8F8F8" fill-rule="evenodd" xlink:href="#path-8"></use>
+                    <rect stroke="#717171" stroke-width="1" x="0.5" y="0.5" width="1066" height="386"></rect>
+                </g>
+                <text id="" font-family="Ionicons" font-size="42" font-weight="400" letter-spacing="-0.531481504" fill="#4990E2">
+                    <tspan x="1019" y="48"></tspan>
+                </text>
+                <g id="Group-4" transform="translate(20.000000, 18.000000)">
+                    <g id="Group-Copy">
+                        <g id="Rectangle-2">
+                            <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-9"></use>
+                            <rect stroke="#979797" stroke-width="1" x="1.5" y="0.5" width="232" height="181"></rect>
+                        </g>
+                        <path d="M0.232283465,0.253481894 L235.767717,181.746518" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                        <path d="M0.232283465,0.253481894 L235.767717,181.746518" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(118.000000, 91.000000) scale(-1, 1) translate(-118.000000, -91.000000) "></path>
+                    </g>
+                </g>
+                <text id="Christopher-S.-Chen," font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13" font-weight="bold" line-spacing="20">
+                    <tspan x="29" y="236" fill="#000000">Christopher S. Chen, M.D., Ph.D.</tspan>
+                    <tspan x="230.565" y="236" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#000000"></tspan>
+                    <tspan x="29" y="256" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#000000">Department of Biomedical Engineering</tspan>
+                    <tspan x="29" y="276" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#000000">Boston University</tspan>
+                    <tspan x="29" y="296" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#000000">44 Cummington Mall</tspan>
+                    <tspan x="29" y="316" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#000000">Boston, MA 02215</tspan>
+                    <tspan x="29" y="336" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal" fill="#000000"></tspan>
+                    <tspan x="29" y="356" fill="#4990E2">chencs@bu.edu</tspan>
+                </text>
+                <text id="My-laboratory-seeks" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                    <tspan x="307" y="137">My laboratory seeks to understand how cells interact with their environment, and to use this </tspan>
+                    <tspan x="307" y="165">knowledge to control cell function. In particular, we are studying the cooperation between </tspan>
+                    <tspan x="307" y="193">adhesive, mechanical and biochemical signaling in the regulation of angiogenesis and stem cell </tspan>
+                    <tspan x="307" y="221">biology. To probe these questions in novel ways, our laboratory has developed a repertoire of </tspan>
+                    <tspan x="307" y="249">unique micro- and nanofabrication tools to control and measure the adhesive and mechanical </tspan>
+                    <tspan x="307" y="277">environment of cells. Using these tools in combination with traditional molecular approaches, we </tspan>
+                    <tspan x="307" y="305">are investigating numerous regulatory interactions between mechanical forces and biochemical </tspan>
+                    <tspan x="307" y="333">signaling, and between integrin-, cadherin-, and growth factor-mediated signaling. </tspan>
+                </text>
+                <text id="Christopher-S.-Chen" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="30" font-weight="bold" line-spacing="34" fill="#000000">
+                    <tspan x="307" y="64">Christopher S. Chen</tspan>
+                </text>
+                <text id="Founding-Director:-D" font-family="HelveticaNeue, Helvetica Neue" font-size="13" font-weight="normal" line-spacing="20" fill="#000000">
+                    <tspan x="307" y="90">Founding Director: Design of Tissue Structure, Assembly, and Function</tspan>
+                </text>
+            </g>
+            <g id="Count" transform="translate(347.000000, 400.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                        <tspan x="13.49" y="49">CHA</tspan>
+                        <tspan x="36.66" y="49">R</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                        <tspan x="17.5" y="34">130</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="18.1572727" y="15">Title</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Count" transform="translate(347.000000, 525.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.75" fill="#000000">
+                        <tspan x="8.01" y="49">WORDS</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="0.959999979" fill="#000000">
+                        <tspan x="7.5" y="34">50-150</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="19.6763636" y="15">BIO</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

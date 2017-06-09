@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="529px" viewBox="0 0 1280 529" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>herowithlinks</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pattern-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="herowithlinks">
+            <g>
+                <g>
+                    <rect id="Rectangle" fill="#4A4A4A" x="0" y="0" width="1280" height="529"></rect>
+                    <text id="Engage-impact-statem" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="43" font-weight="bold" line-spacing="75" letter-spacing="0.716667056" fill="#FFFFFF">
+                        <tspan x="124" y="106">Engage impact statement cursus magna, vel </tspan>
+                        <tspan x="124" y="181">consecteteur. Lorem Vivamus sagittis adipising </tspan>
+                        <tspan x="124" y="256">set lorem ipsum faucibus dolor lorem ipsum </tspan>
+                        <tspan x="124" y="331">dolor sit amet consecteteur.</tspan>
+                    </text>
+                    <g id="Group-2" transform="translate(124.000000, 433.000000)" font-weight="bold" font-family="HelveticaNeue-Bold, Helvetica Neue" letter-spacing="0.830769374" fill="#4990E2" font-size="21.5999994" text-decoration="underline">
+                        <text id="Industry-Partners">
+                            <tspan x="0" y="21">Industry Partners</tspan>
+                        </text>
+                        <text id="Career-Opportunities">
+                            <tspan x="271.905594" y="21">Career Opportunities</tspan>
+                        </text>
+                        <text id="Graduate-Education">
+                            <tspan x="584.326923" y="21">Graduate Education</tspan>
+                        </text>
+                        <text id="Lorem-Ipsum">
+                            <tspan x="885.043706" y="21">Lorem Ipsum</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-33" transform="translate(45.000000, 76.000000)">
+                <g id="Count">
+                    <g id="Group-34">
+                        <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                        <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                            <tspan x="12" y="48">CHAR</tspan>
+                        </text>
+                        <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                            <tspan x="17" y="34">170</tspan>
+                        </text>
+                        <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                            <tspan x="7.39772728" y="15">HEADER</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Count" transform="translate(4.000000, 348.000000)">
+                    <g id="Group-34">
+                        <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                        <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                            <tspan x="12" y="48">CHAR</tspan>
+                        </text>
+                        <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                            <tspan x="20.5" y="34">20</tspan>
+                        </text>
+                        <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                            <tspan x="18.5518182" y="15">Link</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

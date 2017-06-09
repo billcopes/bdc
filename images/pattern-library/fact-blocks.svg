@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="663px" viewBox="0 0 1280 663" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>fact-blocks</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pattern-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fact-blocks">
+            <g id="Group-35">
+                <rect id="Rectangle" fill="#4A4A4A" x="0" y="0" width="1280" height="367"></rect>
+                <text id="88" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="103" font-weight="bold" line-spacing="103" letter-spacing="1.71666753" fill="#FFFFFF">
+                    <tspan x="126" y="178">88</tspan>
+                </text>
+                <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" line-spacing="35" letter-spacing="0.400000304" fill="#FFFFFF">
+                    <tspan x="126" y="222">Lorem ipsum dolor</tspan>
+                    <tspan x="126" y="257">sit amet enim purvu.</tspan>
+                    <tspan x="126" y="292">Lorem ipsum dolor.</tspan>
+                </text>
+                <text id="154" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="103" font-weight="bold" line-spacing="103" letter-spacing="1.71666753" fill="#FFFFFF">
+                    <tspan x="534" y="178">154</tspan>
+                </text>
+                <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" line-spacing="35" letter-spacing="0.400000304" fill="#FFFFFF">
+                    <tspan x="534" y="222">Lorem ipsum dolor</tspan>
+                    <tspan x="534" y="257">sit amet enim purvu.</tspan>
+                    <tspan x="534" y="292">Lorem ipsum dolor.</tspan>
+                </text>
+                <text id="22%" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="103" font-weight="bold" line-spacing="103" letter-spacing="1.71666753" fill="#FFFFFF">
+                    <tspan x="934" y="178">22%</tspan>
+                </text>
+                <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" line-spacing="35" letter-spacing="0.400000304" fill="#FFFFFF">
+                    <tspan x="934" y="222">Lorem ipsum dolor</tspan>
+                    <tspan x="934" y="257">sit amet enim purvu.</tspan>
+                    <tspan x="934" y="292">Lorem ipsum dolor.</tspan>
+                </text>
+            </g>
+            <g id="Group-35" transform="translate(0.000000, 476.000000)">
+                <rect id="Rectangle" fill="#4A4A4A" x="0" y="0" width="1280" height="187"></rect>
+                <g id="Group-36" transform="translate(159.000000, 37.000000)" font-weight="bold" font-family="HelveticaNeue-Bold, Helvetica Neue" fill="#FFFFFF">
+                    <text id="22%" font-size="103" line-spacing="103" letter-spacing="1.71666753">
+                        <tspan x="0" y="100">22%</tspan>
+                    </text>
+                    <text id="Lorem-ipsum-dolor-si" font-size="24" line-spacing="35" letter-spacing="0.400000304">
+                        <tspan x="275" y="47">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </tspan>
+                        <tspan x="275" y="82">Aenean commodo ligula eget. Aenean massa.</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Count" transform="translate(52.000000, 217.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="20.5" y="34">56</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="5.52318183" y="15">CAPTION</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Count" transform="translate(355.000000, 547.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="20.5" y="34">96</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="5.52318183" y="15">CAPTION</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

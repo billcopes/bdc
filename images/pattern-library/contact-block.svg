@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="392px" viewBox="0 0 1280 392" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>contact-block</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pattern-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="contact-block">
+            <rect id="Rectangle-7" fill="#F8F8F8" x="0" y="0" width="1280" height="392"></rect>
+            <g id="Count" transform="translate(38.000000, 59.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="20.5" y="34">40</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="7.39772728" y="15">HEADER</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Count" transform="translate(38.000000, 158.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="17" y="34">360</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="10.9127273" y="15">DETAIL</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Johnathan-Smith" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" line-spacing="28" fill="#000000">
+                <tspan x="802" y="149">Johnathan Smith</tspan>
+            </text>
+            <text id="Contact:" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" line-spacing="28" fill="#000000">
+                <tspan x="802" y="109">Contact:</tspan>
+            </text>
+            <text id="Egestas-wisi-id-vene" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                <tspan x="131" y="164">Egestas wisi id venenatis maecenas, penatibus nunc ut at ut, dictum nulla sed </tspan>
+                <tspan x="131" y="192">porttitor in justo nullam. Natoque pede tristique arcu risus ut vivamus, vivamus et </tspan>
+                <tspan x="131" y="220">mi lectus laoreet accumsan, sollicitudin praesent vulputate dictum, integer mattis. </tspan>
+                <tspan x="131" y="248">Nec diam wisi nam et nec, arcu nec feugiat quis. </tspan>
+            </text>
+            <text id="Partner-with-us" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="54" font-weight="bold" line-spacing="45" fill="#000000">
+                <tspan x="128" y="113">Partner with us</tspan>
+            </text>
+            <text id="Partner-relations-T:" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                <tspan x="802" y="183">Partner relations</tspan>
+                <tspan x="802" y="211">T: 555.888.7777</tspan>
+                <tspan x="802" y="239">E: partnercontact@bdc.edu</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="339px" viewBox="0 0 1280 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>3-column-link-group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pattern-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-column-link-group">
+            <rect id="Rectangle-7" fill="#F8F8F8" x="0" y="0" width="1280" height="339"></rect>
+            <text id="Lorem-ipsum-dolor" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" line-spacing="28" fill="#000000">
+                <tspan x="126" y="75">Lorem ipsum dolor</tspan>
+            </text>
+            <text id="Lorem-ipsum-dolor" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" line-spacing="28" fill="#000000">
+                <tspan x="477" y="75">Lorem ipsum dolor</tspan>
+            </text>
+            <text id="Lorem-ipsum-dolor" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="24" font-weight="bold" line-spacing="28" fill="#000000">
+                <tspan x="835" y="75">Lorem ipsum dolor</tspan>
+            </text>
+            <g id="Group-6" transform="translate(126.000000, 228.000000)">
+                <rect id="Rectangle-5" stroke="#4990E2" x="0.5" y="0.5" width="302" height="62"></rect>
+                <g id="Group-7" transform="translate(25.000000, 11.000000)" fill="#4990E2">
+                    <text id="Lorem-ipsum" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34">
+                        <tspan x="0" y="20">Lorem ipsum</tspan>
+                    </text>
+                    <path d="M175,20 L245,20" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
+                    <path id="Line-Copy-9-decoration-1" d="M245,20 L234.2,17 L234.2,23 L245,20 Z" stroke="#4990E2" stroke-linecap="square"></path>
+                </g>
+            </g>
+            <g id="Group-6" transform="translate(477.000000, 228.000000)">
+                <rect id="Rectangle-5" stroke="#4990E2" x="0.5" y="0.5" width="302" height="62"></rect>
+                <g id="Group-7" transform="translate(25.000000, 11.000000)" fill="#4990E2">
+                    <text id="Lorem-ipsum" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34">
+                        <tspan x="0" y="20">Lorem ipsum</tspan>
+                    </text>
+                    <path d="M175,20 L245,20" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
+                    <path id="Line-Copy-9-decoration-1" d="M245,20 L234.2,17 L234.2,23 L245,20 Z" stroke="#4990E2" stroke-linecap="square"></path>
+                </g>
+            </g>
+            <g id="Group-6" transform="translate(835.000000, 228.000000)">
+                <rect id="Rectangle-5" stroke="#4990E2" x="0.5" y="0.5" width="302" height="62"></rect>
+                <g id="Group-7" transform="translate(25.000000, 11.000000)" fill="#4990E2">
+                    <text id="Lorem-ipsum" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="34">
+                        <tspan x="0" y="20">Lorem ipsum</tspan>
+                    </text>
+                    <path d="M175,20 L245,20" id="Line-Copy-9" stroke="#4990E2" stroke-linecap="square"></path>
+                    <path id="Line-Copy-9-decoration-1" d="M245,20 L234.2,17 L234.2,23 L245,20 Z" stroke="#4990E2" stroke-linecap="square"></path>
+                </g>
+            </g>
+            <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                <tspan x="126" y="104">Ivamus reprehenderit sem ipsum nam </tspan>
+                <tspan x="126" y="132">vitae. Vel scelerisque nisl consectetur </tspan>
+                <tspan x="126" y="160">et. Cum sociis natoque penatibus et </tspan>
+                <tspan x="126" y="188">magnis dis parturient montes</tspan>
+            </text>
+            <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                <tspan x="477" y="104">Ivamus reprehenderit sem ipsum nam </tspan>
+                <tspan x="477" y="132">vitae. Vel scelerisque nisl consectetur </tspan>
+                <tspan x="477" y="160">et. Cum sociis natoque penatibus et </tspan>
+                <tspan x="477" y="188">magnis dis parturient montes</tspan>
+            </text>
+            <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                <tspan x="835" y="101">Ivamus reprehenderit sem ipsum nam </tspan>
+                <tspan x="835" y="129">vitae. Vel scelerisque nisl consectetur </tspan>
+                <tspan x="835" y="157">et. Cum sociis natoque penatibus et </tspan>
+                <tspan x="835" y="185">magnis dis parturient montes</tspan>
+            </text>
+            <g id="Count" transform="translate(45.000000, 44.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="20.5" y="34">40</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="7.39772728" y="15">HEADER</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Count" transform="translate(45.000000, 142.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="17" y="34">160</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="12.9772727" y="15">DESC.</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Count" transform="translate(45.000000, 227.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="20.5" y="34">40</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="16.8868182" y="15">LINK</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

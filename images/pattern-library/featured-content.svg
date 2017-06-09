@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="2068px" viewBox="0 0 1280 2068" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>featured-content</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="0" width="325" height="180"></rect>
+        <rect id="path-2" x="2" y="0" width="493" height="273"></rect>
+        <rect id="path-3" x="2" y="0" width="493" height="273"></rect>
+        <rect id="path-4" x="1" y="0" width="325" height="180"></rect>
+        <rect id="path-5" x="1" y="0" width="325" height="180"></rect>
+    </defs>
+    <g id="Pattern-Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="featured-content">
+            <rect id="Rectangle-7" fill="#F8F8F8" x="0" y="0" width="1280" height="683"></rect>
+            <rect id="Rectangle-7" fill="#F8F8F8" x="0" y="715" width="1280" height="744"></rect>
+            <text id="Featured-industry-pa" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="45" fill="#000000">
+                <tspan x="126" y="89">Featured industry partners lorem ipsum </tspan>
+                <tspan x="126" y="134">dolor sit amet, adipiscing elit.</tspan>
+            </text>
+            <g id="Count" transform="translate(37.000000, 70.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="20.5" y="34">96</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="7.39772728" y="15">HEADER</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Count" transform="translate(37.000000, 401.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="20.5" y="34">90</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="3.49318183" y="15">SUBHEAD</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Count" transform="translate(37.000000, 497.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="17" y="34">160</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="12.9772727" y="15">DESC.</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Count" transform="translate(37.000000, 785.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="20.5" y="34">96</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="7.39772728" y="15">HEADER</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Count" transform="translate(37.000000, 1197.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="20.5" y="34">90</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="3.49318183" y="15">SUBHEAD</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Count" transform="translate(37.000000, 1273.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="17" y="34">160</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="12.9772727" y="15">DESC.</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Featured-industry-pa" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="45" fill="#000000">
+                <tspan x="126" y="808">Featured industry partners lorem ipsum </tspan>
+                <tspan x="126" y="853">dolor sit amet, adipiscing elit.</tspan>
+            </text>
+            <g id="Group-Copy-2" transform="translate(126.000000, 196.000000)">
+                <g id="Rectangle-2">
+                    <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#979797" stroke-width="1" x="1.5" y="0.5" width="324" height="179"></rect>
+                </g>
+                <path d="M0.32480315,0.233983287 L329.675197,167.766017" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <path d="M0.32480315,0.233983287 L329.675197,167.766017" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(165.000000, 84.000000) scale(-1, 1) translate(-165.000000, -84.000000) "></path>
+            </g>
+            <g id="Group-Copy-2" transform="translate(126.000000, 911.000000)">
+                <g id="Rectangle-2">
+                    <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#979797" stroke-width="1" x="2.5" y="0.5" width="492" height="272"></rect>
+                </g>
+                <path d="M0.493110236,0.355153203 L500.50689,254.644847" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <path d="M0.493110236,0.355153203 L500.50689,254.644847" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(250.500000, 127.500000) scale(-1, 1) translate(-250.500000, -127.500000) "></path>
+            </g>
+            <g id="Group-Copy-2" transform="translate(655.000000, 911.000000)">
+                <g id="Rectangle-2">
+                    <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#979797" stroke-width="1" x="2.5" y="0.5" width="492" height="272"></rect>
+                </g>
+                <path d="M0.493110236,0.355153203 L500.50689,254.644847" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <path d="M0.493110236,0.355153203 L500.50689,254.644847" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(250.500000, 127.500000) scale(-1, 1) translate(-250.500000, -127.500000) "></path>
+            </g>
+            <g id="Group-Copy-2" transform="translate(474.000000, 196.000000)">
+                <g id="Rectangle-2">
+                    <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#979797" stroke-width="1" x="1.5" y="0.5" width="324" height="179"></rect>
+                </g>
+                <path d="M0.32480315,0.233983287 L329.675197,167.766017" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <path d="M0.32480315,0.233983287 L329.675197,167.766017" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(165.000000, 84.000000) scale(-1, 1) translate(-165.000000, -84.000000) "></path>
+            </g>
+            <g id="Group-Copy-2" transform="translate(822.000000, 196.000000)">
+                <g id="Rectangle-2">
+                    <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <rect stroke="#979797" stroke-width="1" x="1.5" y="0.5" width="324" height="179"></rect>
+                </g>
+                <path d="M0.32480315,0.233983287 L329.675197,167.766017" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <path d="M0.32480315,0.233983287 L329.675197,167.766017" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(165.000000, 84.000000) scale(-1, 1) translate(-165.000000, -84.000000) "></path>
+            </g>
+            <text id="Industry-partnership" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="28" fill="#000000">
+                <tspan x="126" y="422">Industry partnership lorem </tspan>
+                <tspan x="126" y="450">ipsum dolor sit</tspan>
+            </text>
+            <text id="Industry-partnership" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="28" fill="#000000">
+                <tspan x="126" y="1230">Industry partnership lorem ipsum dolor sit</tspan>
+            </text>
+            <text id="Industry-partnership" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="28" fill="#000000">
+                <tspan x="655" y="1230">Industry partnership lorem ipsum dolor sit</tspan>
+            </text>
+            <text id="Industry-partnership" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="28" fill="#000000">
+                <tspan x="474" y="422">Industry partnership lorem </tspan>
+                <tspan x="474" y="450">ipsum dolor sit</tspan>
+            </text>
+            <text id="Industry-partnership" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="28" fill="#000000">
+                <tspan x="822" y="422">Industry partnership lorem ipsum </tspan>
+                <tspan x="822" y="450">dolor sit</tspan>
+            </text>
+            <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                <tspan x="126" y="482">Ivamus reprehenderit sem ipsum nam vitae </tspan>
+                <tspan x="126" y="510">scelerisque nisl consectetur et. Ivamus </tspan>
+                <tspan x="126" y="538">reprehenderit sem ipsum nam vitae </tspan>
+                <tspan x="126" y="566">scelerisque nisl consectetur et. </tspan>
+            </text>
+            <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                <tspan x="126" y="1266">Ivamus reprehenderit sem ipsum nam vitae scelerisque nisl </tspan>
+                <tspan x="126" y="1294">consectetur et. Ivamus reprehenderit sem ipsum nam vitae </tspan>
+                <tspan x="126" y="1322">scelerisque nisl consectetur et. </tspan>
+            </text>
+            <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                <tspan x="655" y="1266">Ivamus reprehenderit sem ipsum nam vitae scelerisque nisl </tspan>
+                <tspan x="655" y="1294">consectetur et. Ivamus reprehenderit sem ipsum nam vitae </tspan>
+                <tspan x="655" y="1322">scelerisque nisl consectetur et. </tspan>
+            </text>
+            <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                <tspan x="474" y="482">Ivamus reprehenderit sem ipsum nam vitae </tspan>
+                <tspan x="474" y="510">scelerisque nisl consectetur et. Ivamus </tspan>
+                <tspan x="474" y="538">reprehenderit sem ipsum nam vitae </tspan>
+                <tspan x="474" y="566">scelerisque nisl consectetur et. </tspan>
+            </text>
+            <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                <tspan x="822" y="482">Ivamus reprehenderit sem ipsum nam vitae </tspan>
+                <tspan x="822" y="510">scelerisque nisl consectetur et. Ivamus </tspan>
+                <tspan x="822" y="538">reprehenderit sem ipsum nam vitae </tspan>
+                <tspan x="822" y="566">scelerisque nisl consectetur et. </tspan>
+            </text>
+            <g id="Group-7" transform="translate(0.000000, 1491.000000)">
+                <rect id="Rectangle-7" fill="#F8F8F8" x="0" y="0" width="1280" height="577"></rect>
+                <text id="Benefit-of-partnersh" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="28" fill="#000000">
+                    <tspan x="115" y="376">Benefit of partnership</tspan>
+                </text>
+                <text id="Benefit-of-partnersh" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="28" fill="#000000">
+                    <tspan x="463" y="376">Benefit of partnership</tspan>
+                </text>
+                <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                    <tspan x="115" y="408">Ivamus reprehenderit sem ipsum nam vitae </tspan>
+                    <tspan x="115" y="436">scelerisque nisl consectetur et. Ivamus </tspan>
+                    <tspan x="115" y="464">reprehenderit sem ipsum nam. </tspan>
+                </text>
+                <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                    <tspan x="463" y="408">Ivamus reprehenderit sem ipsum nam vitae </tspan>
+                    <tspan x="463" y="436">scelerisque nisl consectetur et. Ivamus </tspan>
+                    <tspan x="463" y="464">reprehenderit sem ipsum nam. </tspan>
+                </text>
+                <text id="Benefit-of-partnersh" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" line-spacing="28" fill="#000000">
+                    <tspan x="811" y="376">Benefit of partnership</tspan>
+                </text>
+                <text id="Ivamus-reprehenderit" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" line-spacing="28" fill="#000000">
+                    <tspan x="811" y="408">Ivamus reprehenderit sem ipsum nam vitae </tspan>
+                    <tspan x="811" y="436">scelerisque nisl consectetur et. Ivamus </tspan>
+                    <tspan x="811" y="464">reprehenderit sem ipsum nam. </tspan>
+                </text>
+                <path d="M144.2,258.6 C143.7,258.4 143.1,258.2 142.6,258 C142.1,258.2 141.5,258.4 141,258.6 C135.1,260.7 128.5,263 121.2,263 C119.1,263 117.1,262.9 115,262.7 L115,297.4 C115,305 122.6,312.1 128.9,316.7 C134.7,320.9 140.6,323.8 142.5,324.8 C146.8,322.7 170,311 170,297.4 L170,262.8 C168,263 165.9,263.1 163.8,263.1 C156.7,263 150,260.7 144.2,258.6 Z M136.8,303.7 L126.1,293 L130.8,288.3 L136.8,294.3 L156,275 L160.7,279.7 L136.8,303.7 Z" id="Shape" fill="#CBCBCB" fill-rule="nonzero"></path>
+                <path d="M492.2,258.6 C491.7,258.4 491.1,258.2 490.6,258 C490.1,258.2 489.5,258.4 489,258.6 C483.1,260.7 476.5,263 469.2,263 C467.1,263 465.1,262.9 463,262.7 L463,297.4 C463,305 470.6,312.1 476.9,316.7 C482.7,320.9 488.6,323.8 490.5,324.8 C494.8,322.7 518,311 518,297.4 L518,262.8 C516,263 513.9,263.1 511.8,263.1 C504.7,263 498,260.7 492.2,258.6 Z M484.8,303.7 L474.1,293 L478.8,288.3 L484.8,294.3 L504,275 L508.7,279.7 L484.8,303.7 Z" id="Shape" fill="#CBCBCB" fill-rule="nonzero"></path>
+                <path d="M840.2,258.6 C839.7,258.4 839.1,258.2 838.6,258 C838.1,258.2 837.5,258.4 837,258.6 C831.1,260.7 824.5,263 817.2,263 C815.1,263 813.1,262.9 811,262.7 L811,297.4 C811,305 818.6,312.1 824.9,316.7 C830.7,320.9 836.6,323.8 838.5,324.8 C842.8,322.7 866,311 866,297.4 L866,262.8 C864,263 861.9,263.1 859.8,263.1 C852.7,263 846,260.7 840.2,258.6 Z M832.8,303.7 L822.1,293 L826.8,288.3 L832.8,294.3 L852,275 L856.7,279.7 L832.8,303.7 Z" id="Shape" fill="#CBCBCB" fill-rule="nonzero"></path>
+                <text id="Paragraph-about-beco" font-family="HelveticaNeue, Helvetica Neue" font-size="34" font-weight="normal" line-spacing="45" fill="#000000">
+                    <tspan x="115" y="127">Paragraph about becoming a partner lorem ipsum </tspan>
+                    <tspan x="115" y="172">dolor sit amet, consectetuer adipiscing elit.</tspan>
+                </text>
+            </g>
+            <g id="Count" transform="translate(37.000000, 1592.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="20.5" y="34">96</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="7.39772728" y="15">HEADER</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Count" transform="translate(37.000000, 1838.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="20.5" y="34">90</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="3.49318183" y="15">SUBHEAD</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Count" transform="translate(37.000000, 1909.000000)">
+                <g id="Group-34">
+                    <path d="M57,23.4017629 L57,3 C57,1.34314575 55.6568542,3.66629817e-15 54,-4.4408921e-16 L54,0 L3,0 L3,-4.4408921e-16 C1.34314575,-1.39730022e-16 -6.46995335e-16,1.34314575 -4.4408921e-16,3 L0,3 L-4.4408921e-16,51 C3.43777239e-15,52.6568542 1.34314575,54 3,54 L3,54 L54,54 C55.6568542,54 57,52.6568542 57,51 L57,51 L57,29.6753855 L72.6152344,26.5385742 L57,23.4017629 Z" id="Combined-Shape" fill="#F5E900"></path>
+                    <text id="CHAR" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="11" font-weight="300" line-spacing="13" letter-spacing="1.15499985" fill="#000000">
+                        <tspan x="12" y="48">CHAR</tspan>
+                    </text>
+                    <text id="170" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-size="13" font-style="condensed" font-weight="bold" line-spacing="13" letter-spacing="1.36499989" fill="#000000">
+                        <tspan x="14.5" y="34">160.</tspan>
+                    </text>
+                    <text id="HEADER" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" line-spacing="13" letter-spacing="0.409090906" fill="#000000">
+                        <tspan x="12.9772727" y="15">DESC.</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
