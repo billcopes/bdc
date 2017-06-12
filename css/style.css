@@ -500,8 +500,9 @@ aside.page-nav {
 
 .content-block ul {
 	list-style: upper-alpha;
-	margin: 0 2em 2em 2.5em;
+	margin: 0 0 2em 2.5em;
 	width: 24.5%;
+	width: 30vw;
 }
 
 .content-block ul li {

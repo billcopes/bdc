@@ -38,7 +38,7 @@
 							<a href="#news-events">News &amp; Events</a>
 							<ol>
 								<li><a href="#news-article">News Article</a></li>
-								<li><a href="#event">Event Article</a></li>
+								<li><a href="#event">Event</a></li>
 							</ol>
 						</li>
 						<li><a href="#tools-tech">Tools &amp; Tech</a></li>
